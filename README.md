@@ -21,17 +21,17 @@ Um programa que eu fiz com Python e PyQt5 com foco em visualização de dados fe
 
 Tela de Início
 :-------------------------:
-![HomePage](https://user-images.githubusercontent.com/19711677/86519243-7a55af00-bdfe-11ea-8a43-a9850710bd82.JPG)
+![HomePage](https://github.com/phoonsz/retifica/assets/64720271/f8c7f5da-ed08-4a21-8375-2be291cb9cd5)
 
 
 Tela com Lista de Clientes
 :-------------------------:
-![HomePage language dropdown](https://user-images.githubusercontent.com/19711677/86519338-79714d00-bdff-11ea-8780-a09ec73ef9d4.JPG)
+![Lista de Clientes](https://github.com/phoonsz/retifica/assets/64720271/227e53a4-a634-4ef5-b288-920109c7049d)
 
 
 Tela com os Gráficos
 :-------------------------:
-![Shop Owner or Manger Page with Google Analytics](https://user-images.githubusercontent.com/19711677/86519242-79bd1880-bdfe-11ea-8681-a613f0e77faf.JPG)
+![Tela com Gráficos]((https://github.com/phoonsz/retifica/assets/64720271/c6a12a82-b285-4ada-bfb5-5b7f0e971451)
 
 
 ## Ferramentas
