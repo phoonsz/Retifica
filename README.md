@@ -3,7 +3,7 @@ Um programa feito para uma empresa que faz retificações.
 
 
 ## Tabela de Conteúdo
-* [Informações Gerais](#info-gerais)
+* [Informações Gerais](#informações-gerais)
 * [Screenshots](#screenshots)
 * [Ferramentas](#ferramentas)
 * [Tecnologias](#tecnologias)
