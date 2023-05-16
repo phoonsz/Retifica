@@ -26,7 +26,7 @@ Tela de Início
 
 Tela com Lista de Clientes
 :-------------------------:
-![Lista de Clientes](https://github.com/phoonsz/retifica/assets/64720271/227e53a4-a634-4ef5-b288-920109c7049d)
+![Lista de Clientes](https://github.com/phoonsz/retifica/assets/64720271/44dacbff-b515-471b-8576-85ffa3e32ad7)
 
 
 Tela com os Gráficos
