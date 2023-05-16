@@ -24,12 +24,12 @@ Tela de Início
 ![HomePage](media/238640940-617207ac-1a13-4c50-9bf0-304645981021.png)
 
 
-Tela com Lista de Clientes
+Lista de Clientes
 :-------------------------:
 ![Lista de Clientes](media/238639982-44dacbff-b515-471b-8576-85ffa3e32ad7.png)
 
 
-Tela com os Gráficos
+Gráficos
 :-------------------------:
 ![Tela com Gráficos](media/238639374-0207591b-e188-4549-a709-81ecf31d6916.png)
 
