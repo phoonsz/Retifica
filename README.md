@@ -21,7 +21,7 @@ Um programa que eu fiz com Python e PyQt5 com foco em visualização de dados fe
 
 Tela de Início
 :-------------------------:
-![HomePage](https://github.com/phoonsz/retifica/assets/64720271/f8c7f5da-ed08-4a21-8375-2be291cb9cd5)
+![HomePage](https://github.com/phoonsz/retifica/assets/64720271/617207ac-1a13-4c50-9bf0-304645981021)
 
 
 Tela com Lista de Clientes
