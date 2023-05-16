@@ -26,7 +26,7 @@ Tela de Início
 
 Tela com Lista de Clientes
 :-------------------------:
-![Lista de Clientes](media/)
+![Lista de Clientes](media/238639982-44dacbff-b515-471b-8576-85ffa3e32ad7.png)
 
 
 Tela com os Gráficos
