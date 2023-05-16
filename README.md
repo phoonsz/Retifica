@@ -1,158 +1,77 @@
-# E-Shopper
-A Multi-lingual E-Commerce website built with Django and Python.
+# Retificadora
+Um programa feito para uma empresa que faz retificações.
 
 
-## Table of contents
-* [General info](#general-info)
+## Tabela de Conteúdo
+* [Informações Gerais](#info-gerais)
 * [Screenshots](#screenshots)
-* [Features](#features)
-* [Technologies](#technologies)
+* [Ferramentas](#ferramentas)
+* [Tecnologias](#tecnologias)
 * [Setup](#setup)
 * [Status](#status)
-* [Contact](#contact)
-* [License](#license)
-* [Contributing](#contributing)
+* [Contato](#contato)
+* [Licensa](#licensa)
+* [Contribuir](#contribuir)
 
 
-## General info
-A multi-lingual E-Commerce website I built with Python and Django for my final(senior) year project. It supports 10 international languages and has a lot of features a standard online shop needs.
+## Informações Gerais
+Um programa que eu fiz com Python e PyQt5 com foco em visualização de dados feito para uma empresa que realiza retificações.
 
 ## Screenshots
 
-Home Page
+Tela de Início
 :-------------------------:
 ![HomePage](https://user-images.githubusercontent.com/19711677/86519243-7a55af00-bdfe-11ea-8a43-a9850710bd82.JPG)
 
 
-Language Dropdown Page
+Tela com Lista de Clientes
 :-------------------------:
 ![HomePage language dropdown](https://user-images.githubusercontent.com/19711677/86519338-79714d00-bdff-11ea-8780-a09ec73ef9d4.JPG)
 
 
- Shop Owner Dashboard Page
+Tela com os Gráficos
 :-------------------------:
 ![Shop Owner or Manger Page with Google Analytics](https://user-images.githubusercontent.com/19711677/86519242-79bd1880-bdfe-11ea-8681-a613f0e77faf.JPG)
 
 
-Customer Dashboard Page
-:-------------------------:
-![customer dashboard](https://user-images.githubusercontent.com/19711677/86519241-79bd1880-bdfe-11ea-946c-27d0adf8745b.JPG)
+## Ferramentas
 
+* Tela de Login
+* Adição de Clientes
+* Checagem dos Clientes
+* Gráficos interativos
 
-Live Chat Support           
-:-------------------------:
-![live chat support](https://user-images.githubusercontent.com/19711677/86519249-7b86dc00-bdfe-11ea-8809-cb1e7c304637.JPG)
-
- 
-Product List Page       |  Product Detail Page
-:-------------------------:|:-------------------------:
-![shop](https://user-images.githubusercontent.com/19711677/86519337-79714d00-bdff-11ea-88a0-4001d8ab386a.JPG) | ![Product Detail Page](https://user-images.githubusercontent.com/19711677/86519245-7aee4580-bdfe-11ea-802f-154ad56b80ff.JPG)
-
-Checkout Page 
-:-------------------------:
-![Checkout page](https://user-images.githubusercontent.com/19711677/86519248-7b86dc00-bdfe-11ea-9df0-4b1113de6938.JPG)
-
-
-PayPal Payment Page
-:-------------------------:
-![Payment Page](https://user-images.githubusercontent.com/19711677/86519247-7b86dc00-bdfe-11ea-81f5-6a32aa760d7d.JPG)
-
-## Features
-
-* Multi-language support (10 international language)
-* PayPal payment
-* Customer Dashboard
-* Owner Dashboard
-* Google Analytics
-* Product Reviews
-* Product Recommendations
-* Ad support
-* Live Chat Support
-
-## Technologies
-* Python 3
-* Javascript
-* Jquery 
-* Django 1.11
-* HTML5
-* CSS3 
-* Bootstrap 4
-* Font awesome
-* PostgreSQL
-* Celery
-* Redis
-* Ngrok
+## Tecnologias
+* Python 3.11
+* PyQt5
 
 ## Setup
 
-To run this app, you will need to follow these 3 steps:
+Para usar o aplicativo você precisa desses dois passos:
 
-#### 1. Requirements
-  - a Laptop
+#### 1. Requerimentos
+  - Um Computador com Windows  7/8/10/11
 
-  - Text Editor or IDE (eg. vscode, PyCharm)
+#### 2. Abra o programa!
 
-  - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed on your Laptop.
-
-
-#### 2. Install Python and Pipenv
-  - [Python3](https://www.python.org/downloads/)
-  
-
-  - [Pipenv](https://pipenv-es.readthedocs.io/es/stable/)
-
-#### 3. Local Setup and Running on Windows, Linux and Mac OS
-
-  ```
-  # Clone this repository into the directory of your choice
-  $ git clone https://github.com/Williano/Final-Senior-Year-Project-.git
-
-  # Move into project folder
-  $ cd Final-Senior-Year-Project-
-
-  # Install from Pipfile
-  $ pipenv install -r requirements.txt 
-
-  # Activate the Pipenv shell
-  $ pipenv shell
-
-  # Create database tables
-  (Final-Senior-Year-Project-XXXX) $ python manage.py migrate
-  
-  # Create superuser account
-  (Final-Senior-Year-Project-XXXX) $ python manage.py createsuperuser
-
-  # Start server
-  (Final-Senior-Year-Project-XXXX) $ python manage.py runserver
-  
-  # Copy the IP address provided once your server has completed building the site. (It will say something like >> Serving at 127.0.0.1....).
-  
-  # Open the address in the browser
-  >>> http://127.0.0.1:XXXX
-  
-  
-  # Django Admin
-  >>> http://127.0.0.1:XXXX/admin/
-  ```
+Eu fiz o programa de uma forma que roda em qualquer dispositivo Windows(eu espero).
 
 
 ## Status
-Project is: _done_
+O projeto está: _sendo feito_
 
-## Contact
-Created by [Williano](https://williano.github.io/) - feel free to contact me!
+## Contato
+Feito por [phoon](https://phoonsz.github.io/) - Não me mande mensagem! (Só se for importante)
 
-## License
->You can check out the full license [here](https://github.com/Williano/Final-Senior-Year-Project-/blob/master/LICENSE.md)
+## Licença
+>Leia o arquivo de licença [aqui](https://github.com/Williano/Final-Senior-Year-Project-/blob/master/LICENSE.md)
 
-This project is licensed under the terms of the **MIT** license.
+Esse projeto é licenciado sob a Licença MIT.
 
-## Contributing
+## Contribuir
 
-1. Fork it (<https://github.com/Williano/Final-Senior-Year-Project-.git>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-
+1. Faça um fork do projeto (<[ttps://github.com/phoonsz/retifica/]>
+2. Faça a sua própria branch (`git checkout -b feature/fooBar`)
+3. Coloque as suas mudanças (`git commit -am 'Add some fooBar'`)
+4. Salve as na sua branch (`git push origin feature/fooBar`)
+5. Crie um Pull Request para que eu confira e adicione.
