@@ -10,7 +10,7 @@ Um programa feito para uma empresa que faz retificações.
 * [Setup](#setup)
 * [Status](#status)
 * [Contato](#contato)
-* [Licensa](#licensa)
+* [Licença](#licença)
 * [Contribuir](#contribuir)
 
 
