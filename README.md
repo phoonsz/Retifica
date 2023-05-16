@@ -31,7 +31,7 @@ Tela com Lista de Clientes
 
 Tela com os Gráficos
 :-------------------------:
-![Tela com Gráficos](https://github.com/phoonsz/retifica/assets/64720271/c6a12a82-b285-4ada-bfb5-5b7f0e971451)
+![Tela com Gráficos](https://github.com/phoonsz/retifica/assets/64720271/0207591b-e188-4549-a709-81ecf31d6916)
 
 
 ## Ferramentas
