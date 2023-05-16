@@ -64,7 +64,7 @@ O projeto está: _sendo feito_
 Feito por [phoon](https://phoonsz.github.io/) - Não me mande mensagem! (Só se for importante)
 
 ## Licença
->Leia o arquivo de licença [aqui](https://github.com/Williano/Final-Senior-Year-Project-/blob/master/LICENSE.md)
+>Leia o arquivo de licença [aqui](https://github.com/phoonsz/retifica/blob/master/LICENSE.md)
 
 Esse projeto é licenciado sob a Licença MIT.
 
