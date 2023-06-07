@@ -61,7 +61,7 @@ Eu fiz o programa de uma forma que roda em qualquer dispositivo Windows(eu esper
 O projeto está: _Finalizado_
 
 ## Contato
-Feito por [phoon](https://phoonsz.github.io/) - Não me mande mensagem! (Só se for importante)
+Feito por [phoon](ayo.so/phoon) - Não me mande mensagem! (Só se for importante)
 
 ## Licença
 >Leia o arquivo de licença [aqui](https://github.com/phoonsz/retifica/blob/master/LICENSE.md)
