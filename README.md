@@ -58,7 +58,7 @@ Eu fiz o programa de uma forma que roda em qualquer dispositivo Windows(eu esper
 
 
 ## Status
-O projeto está: _sendo feito_
+O projeto está: _Finalizado
 
 ## Contato
 Feito por [phoon](https://phoonsz.github.io/) - Não me mande mensagem! (Só se for importante)
