@@ -7,19 +7,19 @@ from PyQt5.QtGui import QIcon
 from PyQt5.QtWidgets import (
     QApplication,
     QLabel,
-    QLineEdit,
-    QPushButton,
+    QSpinBox,
     QVBoxLayout,
     QHBoxLayout,
     QWidget,
     QTableWidget,
-    QTableWidgetItem
+    QTableWidgetItem,
+    QMessageBox,
+    QLineEdit,
 )
-from plotly.subplots import make_subplots
-from PyQt5.QtCore import Qt
+from PyQt5.QtCore import Qt, QDate
 from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
 from matplotlib.figure import Figure
-
+from PyQt5.QtWidgets import QDateEdit, QPushButton, QCalendarWidget
 
 today = datetime.date.today()
 
@@ -28,7 +28,7 @@ try:
 except FileNotFoundError:
     df = pd.DataFrame(columns=['name', 'phone', 'old_mm', 'new_mm', 'date', 'delivery_date', 'delivery_state'])
 
-semana='Mostrar última semana'
+
 
 class AddClient(QWidget):
     def __init__(self):
@@ -38,13 +38,14 @@ class AddClient(QWidget):
         self.name_label = QLabel('Nome:')
         self.name_input = QLineEdit()
         self.phone_label = QLabel('Telefone:')
-        self.phone_input = QLineEdit()
+        self.phone_input = QSpinBox()
         self.old_mm_label = QLabel('MM Antigo:')
-        self.old_mm_input = QLineEdit()
+        self.old_mm_input = QSpinBox()
         self.new_mm_label = QLabel('MM Novo:')
-        self.new_mm_input = QLineEdit()
+        self.new_mm_input = QSpinBox()
         self.delivery_date_label = QLabel('Data da Entrega:')
-        self.delivery_date_input = QLineEdit()
+        self.delivery_date_input = QDateEdit(calendarPopup=True)
+        self.delivery_date_input.setDisplayFormat('yyyy-MM-dd')
         self.delivery_state_label = QLabel('Estado da Entrega:')
         self.delivery_state_input = QLineEdit()
         self.submit_button = QPushButton('Adicionar')
@@ -78,22 +79,23 @@ class AddClient(QWidget):
 
     def add_client_to_df(self):
         name = self.name_input.text()
-        phone = self.phone_input.text()
-        old_mm = int(self.old_mm_input.text())
-        new_mm = int(self.new_mm_input.text())
-        delivery_date = self.delivery_date_input.text()
+        phone = str(self.phone_input.value())
+        old_mm = int(self.old_mm_input.value())
+        new_mm = int(self.new_mm_input.value())
+        delivery_date = self.delivery_date_input.date().toString(Qt.ISODate)
         delivery_state = self.delivery_state_input.text()
         clientid = len(df) + 1
         date = today.strftime("%Y-%m-%d")
         df.loc[clientid] = [name, phone, old_mm, new_mm, date, delivery_date, delivery_state]
         df.to_csv('clients.csv', index=False)
 
+
         # Apagar o input
         self.name_input.setText('')
-        self.phone_input.setText('')
-        self.old_mm_input.setText('')
-        self.new_mm_input.setText('')
-        self.delivery_date_input.setText('')
+        self.phone_input.setValue(0)
+        self.old_mm_input.setValue(0)
+        self.new_mm_input.setValue(0)
+        self.delivery_date_input.setDate(QDate.currentDate())
         self.delivery_state_input.setText('')
 
     def open_client_list(self):
@@ -125,7 +127,7 @@ class ClientList(QWidget):
                 item = QTableWidgetItem(str(self.df.iloc[i, j]))
                 self.table.setItem(i, j, item)
 
-
+semana='Mostrar última semana'
 class GraphWindow(QWidget):
     def __init__(self, df):
         super().__init__()

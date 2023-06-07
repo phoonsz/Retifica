@@ -1,1001 +1,1003 @@
 name,phone,old_mm,new_mm,date,delivery_date,delivery_state
-Edward Williams,,150,200,2023-04-12,,Feito
-Jennifer Owens,,200,250,2023-04-07,2023-02-08,Entregue
-Adam Gonzalez,,300,350,2023-03-21,,Em Producao
-Peter Hernandez,,100,150,2023-04-14,,Em Producao
-Michael Ward,,150,200,2023-03-23,2023-02-19,Entregue
-Laura Thomas,,200,250,2023-02-21,,Em Producao
-David Reid,,300,350,2023-04-13,,Feito
-Chloe Rodriguez,,150,200,2023-04-09,,Feito
-Deanna Elliott,,150,200,2023-04-19,,Em Producao
-Donna Burke,,100,150,2023-02-15,,Feito
-Austin Coleman,,150,200,2023-03-02,,Em Producao
-Elaine Wagner,,200,250,2023-04-16,2023-03-27,Entregue
-Ryan Myers,,150,200,2023-03-04,,Feito
-Patricia Carlson,,150,200,2023-03-05,,Em Producao
-Donna Klein,,300,350,2023-02-15,,Feito
-Ashley Peck,,150,200,2023-04-15,,Em Producao
-Lawrence Williamson,,150,200,2023-03-07,,Feito
-Stacey Rodriguez,,150,200,2023-03-12,,Feito
-Charles Dawson,,300,350,2023-03-14,2023-02-21,Entregue
-Robert Davis,,200,250,2023-04-02,,Em Producao
-Jennifer King,,200,250,2023-04-15,,Feito
-Julie Obrien,,200,250,2023-02-24,,Feito
-Janet Thompson,,200,250,2023-03-12,2023-03-18,Entregue
-John Stokes,,250,300,2023-02-28,,Feito
-Robin Smith,,100,150,2023-02-04,,Em Producao
-George Mckenzie,,200,250,2023-02-04,,Em Producao
-Jerome Sweeney,,150,200,2023-01-29,2023-04-04,Entregue
-Charles Martin,,150,200,2023-03-29,,Feito
-Shelby Moreno,,200,250,2023-03-22,2023-04-19,Entregue
-Lucas Neal,,250,300,2023-04-08,,Em Producao
-Sara Foster,,250,300,2023-04-11,2023-02-09,Entregue
-Christopher Soto,,250,300,2023-03-12,,Em Producao
-Shane Aguilar,,300,350,2023-02-15,,Feito
-Jennifer Case,,300,350,2023-03-02,,Em Producao
-Timothy Phillips,,150,200,2023-04-03,2023-04-21,Entregue
-Jerry Baldwin,,100,150,2023-04-11,,Feito
-Brandon Rivera,,150,200,2023-03-19,,Em Producao
-Richard Wallace,,150,200,2023-02-15,,Feito
-Manuel Gutierrez,,100,150,2023-02-26,,Feito
-Charles Wallace,,300,350,2023-02-09,,Feito
-Molly Torres,,250,300,2023-02-04,,Feito
-Felicia Griffin,,100,150,2023-03-28,2023-01-28,Entregue
-Kathy Woods,,300,350,2023-02-11,,Feito
-Amanda Lee,,150,200,2023-02-10,2023-03-05,Entregue
-Kevin Stevens,,150,200,2023-03-31,2023-01-24,Entregue
-Adrian Garza,,200,250,2023-01-26,,Feito
-Ariel Lewis,,300,350,2023-03-02,,Em Producao
-Zachary Jones,,250,300,2023-04-16,,Feito
-Steven Donaldson,,100,150,2023-03-03,,Em Producao
-Angela Villanueva,,100,150,2023-02-17,2023-04-11,Entregue
-Matthew Horne,,300,350,2023-02-16,,Em Producao
-Michael Atkinson,,300,350,2023-03-08,2023-01-24,Entregue
-Deborah Chapman,,150,200,2023-03-01,,Feito
-Joseph Walker,,200,250,2023-04-20,,Feito
-Nathan Mason,,300,350,2023-03-30,,Em Producao
-Sandra Acosta,,200,250,2023-03-04,,Feito
-Mark Moore,,250,300,2023-02-20,,Feito
-Jennifer Byrd,,100,150,2023-04-11,,Feito
-Jocelyn Benson,,200,250,2023-01-28,2023-02-15,Entregue
-Elizabeth Schwartz,,300,350,2023-03-02,,Feito
-Ross Soto,,250,300,2023-03-11,2023-01-24,Entregue
-Jordan Lee,,200,250,2023-03-11,,Feito
-Richard Meyer,,250,300,2023-04-12,2023-02-13,Entregue
-Michael Mcbride,,250,300,2023-03-17,2023-02-14,Entregue
-Maurice Wagner,,200,250,2023-04-09,,Feito
-Michael Carroll,,250,300,2023-03-06,,Em Producao
-Alexander Martinez,,250,300,2023-03-06,,Feito
-Aaron Brown,,100,150,2023-02-08,2023-04-17,Entregue
-David Williams,,200,250,2023-01-27,,Feito
-Kevin Dickerson,,300,350,2023-01-25,,Feito
-Sean Allen,,300,350,2023-01-27,,Feito
-Ms. Elizabeth Pitts DDS,,100,150,2023-01-25,2023-02-04,Entregue
-Pam Liu,,150,200,2023-03-15,2023-03-30,Entregue
-Ashley Cross,,250,300,2023-02-13,,Feito
-Jill Jones,,150,200,2023-03-27,,Feito
-Tara Morris,,200,250,2023-02-03,,Em Producao
-Crystal Ortega,,250,300,2023-02-25,,Feito
-Zachary Kane,,300,350,2023-02-03,,Em Producao
-David Williams,,200,250,2023-03-13,,Em Producao
-Karen Davis,,150,200,2023-03-08,2023-02-09,Entregue
-Brandon Gray,,200,250,2023-02-27,,Feito
-Nancy Cole,,300,350,2023-02-24,,Feito
-Megan Goodwin,,250,300,2023-03-05,,Feito
-Scott Anderson,,100,150,2023-04-13,,Em Producao
-Amanda Robertson,,150,200,2023-04-05,2023-04-02,Entregue
-Brian Lee,,250,300,2023-02-02,2023-02-28,Entregue
-Luke Hurst,,200,250,2023-03-13,2023-03-01,Entregue
-Morgan Bradley,,150,200,2023-02-16,2023-03-01,Entregue
-Megan Vance,,200,250,2023-01-24,,Feito
-Megan Cannon,,100,150,2023-03-23,,Feito
-Cory Scott,,250,300,2023-02-19,,Em Producao
-Kathryn Browning,,200,250,2023-04-04,,Feito
-Aimee Little,,250,300,2023-02-11,2023-04-02,Entregue
-Nicholas Garcia,,300,350,2023-04-16,2023-04-08,Entregue
-Autumn Mcknight,,250,300,2023-02-13,2023-03-07,Entregue
-Timothy Russell,,200,250,2023-03-09,,Feito
-Dillon Boyle,,250,300,2023-01-23,,Feito
-Hannah Kelly,,300,350,2023-03-06,2023-04-15,Entregue
-Holly Davis,,150,200,2023-03-07,,Feito
-Bradley Bailey,,100,150,2023-02-05,2023-03-17,Entregue
-Molly Romero,,300,350,2023-04-18,,Feito
-Paula Davis,,200,250,2023-02-25,2023-02-10,Entregue
-Paula Terry,,250,300,2023-04-07,2023-01-24,Entregue
-Charles Whitehead,,150,200,2023-03-03,,Feito
-Lori Lowe,,100,150,2023-03-11,,Em Producao
-Henry Clements,,300,350,2023-03-09,,Feito
-Holly Chavez,,100,150,2023-02-09,,Feito
-Mary Clark,,150,200,2023-02-09,,Feito
-Marcus Stephens,,300,350,2023-04-21,,Em Producao
-Brandon Medina,,300,350,2023-04-14,,Feito
-Michael Pollard,,200,250,2023-02-27,,Feito
-Kurt Church,,150,200,2023-03-08,,Feito
-Jorge Young,,150,200,2023-01-28,,Feito
-Patrick Hartman,,200,250,2023-02-24,,Em Producao
-Diane Johnston,,300,350,2023-02-22,,Em Producao
-Lisa Dixon,,150,200,2023-04-03,,Feito
-Janet Johnson,,300,350,2023-03-08,2023-04-02,Entregue
-Eric Anderson,,150,200,2023-04-12,,Feito
-Steven Small,,250,300,2023-02-11,,Feito
-Suzanne Miller,,200,250,2023-03-04,,Feito
-Ricky Evans,,100,150,2023-03-20,2023-03-01,Entregue
-James Chase,,250,300,2023-02-19,,Feito
-Kelsey Banks,,200,250,2023-04-08,,Feito
-Jessica Brown,,250,300,2023-02-08,,Em Producao
-Aaron Scott,,300,350,2023-04-12,,Feito
-Jeffrey Mejia,,250,300,2023-02-24,,Em Producao
-Michael Henderson,,150,200,2023-02-10,2023-02-24,Entregue
-Kelly Wade,,300,350,2023-04-12,,Em Producao
-Sherry Mcfarland,,100,150,2023-03-18,2023-04-07,Entregue
-Teresa Day,,300,350,2023-02-08,,Feito
-Erik Ward,,300,350,2023-03-28,,Feito
-Billy Thomas,,150,200,2023-02-14,,Em Producao
-Neil Simmons,,250,300,2023-04-16,,Feito
-Danny Orozco,,150,200,2023-02-26,,Feito
-Rebecca Lee,,200,250,2023-02-15,,Feito
-Adam Lopez,,150,200,2023-03-12,,Em Producao
-Heidi Harrison,,250,300,2023-03-11,2023-03-25,Entregue
-Valerie Barron,,200,250,2023-04-17,,Feito
-Christopher Hernandez,,200,250,2023-01-27,2023-01-31,Entregue
-Sean Pugh,,300,350,2023-03-14,,Em Producao
-Michael Davis,,250,300,2023-03-14,2023-03-20,Entregue
-Stephanie Turner,,100,150,2023-03-11,,Feito
-Jason Davis,,200,250,2023-01-31,,Feito
-Jennifer Klein,,300,350,2023-02-02,2023-02-23,Entregue
-Kristin Davidson,,200,250,2023-03-20,,Feito
-Mitchell Greene,,250,300,2023-02-19,,Feito
-Cathy Evans,,300,350,2023-04-11,,Feito
-Curtis Foster,,300,350,2023-03-28,,Em Producao
-Bradley Guzman,,150,200,2023-03-25,,Feito
-Nicholas Jackson,,200,250,2023-04-19,,Feito
-Eric Burton,,100,150,2023-01-29,,Em Producao
-Amanda Brown,,300,350,2023-01-25,,Em Producao
-James Joseph DDS,,100,150,2023-03-16,,Em Producao
-Jennifer Kennedy,,200,250,2023-02-14,,Em Producao
-Veronica Wright,,200,250,2023-04-06,,Feito
-Jacqueline Jackson,,150,200,2023-02-05,2023-04-16,Entregue
-Michael Floyd,,100,150,2023-02-01,,Em Producao
-Stephen Simmons,,300,350,2023-04-03,,Feito
-Paul Beard,,100,150,2023-03-03,,Feito
-Christine Jackson,,300,350,2023-04-05,,Feito
-Amanda Cohen,,100,150,2023-02-16,,Feito
-Terry Miller,,150,200,2023-03-01,,Em Producao
-Gregory Hamilton,,200,250,2023-04-20,,Feito
-David Watson,,200,250,2023-03-25,,Feito
-Randy Walker,,150,200,2023-03-31,,Feito
-Roger Dunn,,150,200,2023-02-02,,Feito
-Cynthia Arias,,300,350,2023-04-21,,Feito
-Marissa Gutierrez,,250,300,2023-03-11,,Em Producao
-Robert Davis,,100,150,2023-01-31,,Feito
-George Walton,,200,250,2023-04-08,,Feito
-Amanda Morgan,,300,350,2023-03-21,2023-01-30,Entregue
-Antonio Miller,,300,350,2023-03-28,,Em Producao
-Sabrina Davis,,150,200,2023-02-08,,Feito
-Christopher Farmer,,200,250,2023-04-04,2023-04-21,Entregue
-Joseph Wade,,250,300,2023-02-23,,Em Producao
-Jacob Parker,,200,250,2023-01-23,,Feito
-Mary Lamb,,250,300,2023-02-23,,Feito
-Joseph Franklin,,200,250,2023-04-10,2023-04-10,Entregue
-Matthew Jackson,,250,300,2023-03-20,2023-02-22,Entregue
-Gary Barnes,,200,250,2023-03-06,,Em Producao
-Mrs. Cynthia Brock,,150,200,2023-02-11,,Feito
-Kyle Mendez,,300,350,2023-02-01,,Feito
-Jose Hodge,,200,250,2023-03-09,2023-02-16,Entregue
-Thomas Rivera,,250,300,2023-03-12,,Feito
-Amanda Mckenzie,,200,250,2023-04-14,2023-04-13,Entregue
-Deanna Miller,,200,250,2023-02-22,2023-03-14,Entregue
-Andrew Thomas,,100,150,2023-02-05,2023-03-22,Entregue
-Christopher Sanchez,,250,300,2023-03-22,,Feito
-Sabrina Prince,,100,150,2023-01-30,2023-03-15,Entregue
-Charles Dickerson,,100,150,2023-02-06,,Feito
-Jeremy Reyes,,200,250,2023-03-16,,Em Producao
-Karen Lindsey,,200,250,2023-02-11,2023-02-11,Entregue
-Jordan Rivera,,150,200,2023-04-13,2023-04-07,Entregue
-Lynn Walsh,,300,350,2023-03-16,,Feito
-John Cannon,,150,200,2023-01-25,,Feito
-Raymond Brown,,300,350,2023-03-14,2023-01-31,Entregue
-Debbie Harrison,,250,300,2023-03-24,,Feito
-Jessica Roberts,,200,250,2023-02-12,,Feito
-Mark Ruiz,,150,200,2023-02-26,,Em Producao
-David Franklin,,250,300,2023-03-14,,Feito
-Larry Adkins,,200,250,2023-04-13,,Feito
-Chris Young,,250,300,2023-03-27,,Feito
-Matthew Peterson,,200,250,2023-01-31,,Em Producao
-Donald Thomas,,250,300,2023-04-15,,Feito
-Sarah Allison,,100,150,2023-04-14,,Feito
-Kelly Garcia,,250,300,2023-02-19,,Feito
-Mr. Walter Howell,,200,250,2023-03-12,,Feito
-Sarah Pugh,,250,300,2023-02-05,,Feito
-Stephen Lambert,,300,350,2023-01-23,,Feito
-Donna Reed,,150,200,2023-02-17,,Em Producao
-Carla Kennedy,,100,150,2023-02-10,,Em Producao
-Jacob Beck,,250,300,2023-02-15,2023-04-10,Entregue
-Ronald Jimenez,,150,200,2023-04-02,2023-03-08,Entregue
-Sara Gutierrez,,250,300,2023-04-14,2023-03-12,Entregue
-Jamie Ross,,150,200,2023-02-28,,Em Producao
-Benjamin Phillips,,200,250,2023-03-18,,Feito
-Jessica White,,200,250,2023-01-26,,Feito
-Drew Goodwin,,250,300,2023-01-26,2023-02-12,Entregue
-Cody Parsons,,250,300,2023-03-16,,Em Producao
-Shelby Sanders MD,,300,350,2023-02-09,,Feito
-Daniel Johnson,,300,350,2023-01-28,,Feito
-James Wood,,300,350,2023-02-24,,Em Producao
-Erica Carter,,300,350,2023-04-08,,Em Producao
-Jeffery Myers,,150,200,2023-03-03,,Feito
-Timothy Haynes,,200,250,2023-02-16,,Feito
-Melanie Williams,,300,350,2023-02-19,,Em Producao
-Amanda Hamilton,,200,250,2023-02-24,,Feito
-Karen Holt,,150,200,2023-04-11,2023-03-31,Entregue
-Wayne Schultz,,150,200,2023-01-30,,Em Producao
-Kevin Johnson,,200,250,2023-02-14,2023-04-07,Entregue
-Kathleen Dorsey,,300,350,2023-04-03,,Em Producao
-John Rojas,,250,300,2023-02-15,,Feito
-Kiara Turner,,150,200,2023-01-25,2023-02-15,Entregue
-Joy Fuentes,,300,350,2023-03-22,2023-02-13,Entregue
-Matthew Mckee,,200,250,2023-03-07,,Feito
-Shelby Crawford DVM,,250,300,2023-03-07,2023-02-25,Entregue
-Jonathan Baker,,200,250,2023-03-16,,Feito
-Vanessa Hanson,,300,350,2023-04-13,,Feito
-Janet Espinoza,,300,350,2023-04-16,,Em Producao
-Joseph Pacheco,,200,250,2023-03-09,2023-04-11,Entregue
-Dawn Benson,,200,250,2023-03-27,,Feito
-Pamela Johnson,,150,200,2023-03-18,,Feito
-Jessica Snyder,,100,150,2023-02-09,,Em Producao
-Nicole Holland PhD,,200,250,2023-01-31,,Feito
-Thomas Jones,,150,200,2023-04-04,2023-01-28,Entregue
-Keith Spears,,250,300,2023-04-05,2023-01-27,Entregue
-David Solis,,300,350,2023-03-02,,Feito
-Tyler Hernandez,,250,300,2023-04-20,,Feito
-Tammy Orozco,,300,350,2023-03-11,,Feito
-Roberto Bowman,,200,250,2023-01-30,,Feito
-Theresa Allen,,150,200,2023-03-08,2023-03-29,Entregue
-Jennifer Mendez,,100,150,2023-03-30,,Feito
-Joseph Phillips,,150,200,2023-02-20,2023-04-11,Entregue
-Mr. Larry Phillips Jr.,,300,350,2023-03-06,2023-03-26,Entregue
-Adam Hall,,100,150,2023-01-28,,Em Producao
-Taylor Chambers,,100,150,2023-01-31,2023-02-25,Entregue
-Laura Evans,,150,200,2023-02-27,,Feito
-Eric Mills,,100,150,2023-02-28,2023-03-28,Entregue
-Jeffrey Adams,,200,250,2023-03-10,,Feito
-Shannon Cameron,,250,300,2023-03-15,2023-03-17,Entregue
-Pamela Cook,,100,150,2023-04-18,2023-01-24,Entregue
-Jennifer Anderson,,300,350,2023-04-01,,Em Producao
-Marissa Wright,,200,250,2023-01-31,2023-03-08,Entregue
-Stephen Rasmussen,,300,350,2023-01-26,2023-04-22,Entregue
-Robert Stevens,,150,200,2023-03-18,,Feito
-Julian Dixon,,250,300,2023-03-18,,Em Producao
-Kimberly Walker,,150,200,2023-02-23,2023-04-09,Entregue
-Ryan Stephenson,,200,250,2023-02-18,,Feito
-Andrea Griffin,,250,300,2023-02-27,,Em Producao
-Matthew Humphrey,,100,150,2023-03-22,,Feito
-Catherine Clark,,300,350,2023-02-18,,Feito
-Whitney Weaver,,100,150,2023-02-09,,Em Producao
-Carolyn Brown,,200,250,2023-02-28,,Feito
-Kevin Frey,,100,150,2023-03-27,,Feito
-Rebecca Richard,,150,200,2023-04-20,2023-02-21,Entregue
-Jillian Howard,,200,250,2023-02-14,,Em Producao
-Benjamin Miller,,300,350,2023-03-12,2023-02-25,Entregue
-Daniel Carter,,200,250,2023-02-11,2023-03-12,Entregue
-Brian Mcconnell,,300,350,2023-03-12,,Feito
-Justin Woodward,,250,300,2023-03-26,,Em Producao
-Steven Dunlap,,150,200,2023-02-21,,Feito
-Lynn Johnson,,100,150,2023-04-22,2023-02-27,Entregue
-Andrew Smith,,100,150,2023-04-02,,Feito
-Amanda Wells,,150,200,2023-03-02,,Em Producao
-Jason Clayton,,250,300,2023-02-26,,Feito
-Joseph Joseph,,300,350,2023-03-08,,Feito
-Lisa Mann,,300,350,2023-02-04,,Feito
-Tina Castro,,150,200,2023-01-24,2023-02-24,Entregue
-Stephanie Moran,,250,300,2023-02-20,2023-03-20,Entregue
-Crystal Booth,,250,300,2023-04-11,,Feito
-Dr. Christian Thomas Jr.,,200,250,2023-03-15,,Feito
-Cassandra Mckenzie,,150,200,2023-03-02,,Feito
-William Acosta,,150,200,2023-03-13,,Feito
-Laura Kelly,,250,300,2023-03-23,,Feito
-Jennifer Macdonald,,100,150,2023-03-24,,Feito
-Brett Cuevas,,100,150,2023-03-22,2023-02-01,Entregue
-Gary Mitchell,,200,250,2023-02-09,,Feito
-Pam Robinson,,100,150,2023-03-10,,Em Producao
-Raymond Moody,,300,350,2023-02-04,,Feito
-Barbara Robertson,,300,350,2023-03-20,,Feito
-James Adams,,150,200,2023-03-06,,Em Producao
-Jennifer Adams,,300,350,2023-01-29,2023-03-06,Entregue
-Dennis Murphy,,150,200,2023-03-02,2023-04-21,Entregue
-Heather Romero,,200,250,2023-02-15,2023-01-29,Entregue
-Rebecca Brown,,250,300,2023-02-18,,Em Producao
-Matthew Sullivan,,100,150,2023-02-26,,Feito
-Alicia Turner,,200,250,2023-03-27,,Feito
-Kyle Tyler,,300,350,2023-03-07,,Feito
-Carlos Hale,,200,250,2023-03-22,,Feito
-Anthony Patterson,,100,150,2023-02-10,,Feito
-Victor Lee,,300,350,2023-02-26,,Feito
-Marc Alvarez,,200,250,2023-03-29,,Feito
-James Gibbs,,200,250,2023-03-08,,Em Producao
-Ronald Lindsey,,100,150,2023-03-18,,Feito
-Philip Obrien,,100,150,2023-04-07,,Em Producao
-Maxwell Miller,,100,150,2023-03-09,,Feito
-Amanda Burgess,,100,150,2023-04-22,2023-02-09,Entregue
-Donald Parsons,,150,200,2023-03-24,2023-02-17,Entregue
-Bryan Moss IV,,150,200,2023-02-05,,Feito
-Jacob Mitchell,,100,150,2023-03-03,,Feito
-Jennifer Russell,,250,300,2023-04-10,2023-04-08,Entregue
-Nicole Chavez,,250,300,2023-04-07,2023-01-29,Entregue
-James Crawford,,250,300,2023-02-16,,Em Producao
-Michael White,,200,250,2023-04-08,2023-04-20,Entregue
-Jennifer Thompson,,200,250,2023-01-27,,Feito
-Joe Velasquez,,300,350,2023-02-08,2023-04-06,Entregue
-Jamie Hughes,,100,150,2023-03-18,2023-04-19,Entregue
-Rhonda David,,300,350,2023-01-27,,Feito
-Leah Le,,100,150,2023-04-04,,Feito
-Jasmine Black,,300,350,2023-03-24,,Feito
-Clinton Rivera,,100,150,2023-04-19,,Feito
-Karina Roberts,,300,350,2023-04-11,,Em Producao
-Matthew Wood,,250,300,2023-03-02,,Em Producao
-Lindsey Williams,,100,150,2023-03-08,,Feito
-Michael Meyers,,100,150,2023-04-14,,Em Producao
-Heather Gonzalez,,150,200,2023-02-03,2023-01-29,Entregue
-Donna Phillips,,100,150,2023-02-07,,Feito
-Sean Andrews,,150,200,2023-03-22,,Feito
-Priscilla Jackson,,100,150,2023-03-16,,Feito
-Andrea Jimenez,,100,150,2023-01-31,,Em Producao
-Hailey Howard DDS,,150,200,2023-03-23,,Feito
-Darryl Chase,,250,300,2023-04-10,,Feito
-Jason Payne,,200,250,2023-02-18,2023-04-02,Entregue
-William Jones,,100,150,2023-03-20,,Feito
-Mark Meyer,,250,300,2023-02-16,,Em Producao
-Stacy Gould,,150,200,2023-02-22,2023-02-06,Entregue
-Brian Rodriguez,,250,300,2023-01-26,,Feito
-Lee Frazier,,200,250,2023-03-31,,Em Producao
-Kyle Manning,,250,300,2023-02-12,,Em Producao
-Jimmy Avila,,250,300,2023-04-22,,Feito
-Michael Mueller,,100,150,2023-02-26,,Feito
-Tom Banks,,100,150,2023-01-30,,Em Producao
-Derrick Patterson,,300,350,2023-01-25,,Feito
-Oscar Mason,,100,150,2023-03-17,,Feito
-Kevin Conway,,200,250,2023-03-28,,Em Producao
-Pamela Mendez,,300,350,2023-03-15,,Feito
-Travis Gardner,,100,150,2023-03-14,,Feito
-Randall Jones,,100,150,2023-03-16,2023-04-17,Entregue
-Brent Collins,,150,200,2023-04-07,,Em Producao
-Brian Gregory,,150,200,2023-01-23,,Feito
-Chelsea Arnold,,100,150,2023-03-19,,Feito
-Erika Dennis,,300,350,2023-03-02,,Em Producao
-David Wright,,200,250,2023-03-11,,Em Producao
-Wendy Collins,,100,150,2023-02-22,2023-01-29,Entregue
-Alvin Hamilton,,250,300,2023-02-05,,Feito
-Christopher Hernandez,,200,250,2023-04-20,,Feito
-Jonathan Nolan,,300,350,2023-02-10,,Em Producao
-Linda Thomas,,250,300,2023-02-14,,Em Producao
-Summer Mathis,,300,350,2023-03-01,,Em Producao
-Brandi Weber,,250,300,2023-02-20,,Em Producao
-Angel Bell,,150,200,2023-02-07,2023-02-12,Entregue
-Elizabeth Mendoza,,150,200,2023-03-05,,Em Producao
-Jacqueline Hernandez,,100,150,2023-04-08,,Feito
-Rebecca Lee,,150,200,2023-02-06,2023-04-09,Entregue
-Robert Quinn,,250,300,2023-04-14,,Em Producao
-Kathleen Solis,,150,200,2023-04-18,,Em Producao
-Shelley Moore,,100,150,2023-02-03,,Em Producao
-Samantha Cox,,200,250,2023-02-17,,Em Producao
-Elizabeth Rodgers,,250,300,2023-03-29,,Em Producao
-Lisa Coleman,,150,200,2023-04-17,,Em Producao
-Patricia Mccall,,150,200,2023-03-12,,Feito
-Amy Bullock,,100,150,2023-03-19,,Em Producao
-Kristin Richardson,,250,300,2023-03-24,,Em Producao
-Cynthia Gutierrez,,300,350,2023-04-07,,Feito
-Jessica Winters,,300,350,2023-03-02,,Feito
-Anthony Garner,,300,350,2023-03-27,,Feito
-Andrea Mays,,250,300,2023-02-03,,Em Producao
-Christopher Smith,,150,200,2023-01-30,,Feito
-David Robinson,,250,300,2023-02-08,2023-02-28,Entregue
-Jimmy Williams,,250,300,2023-01-24,,Em Producao
-Cynthia Thompson,,100,150,2023-03-18,,Em Producao
-Richard Baird,,100,150,2023-01-25,,Feito
-William Long,,300,350,2023-02-09,,Feito
-Joyce Reese,,200,250,2023-02-06,,Em Producao
-Paige Jacobson,,100,150,2023-04-18,,Feito
-Pamela Lee,,100,150,2023-02-01,,Feito
-Pamela Holland,,300,350,2023-02-20,,Feito
-Heidi Clark,,250,300,2023-03-05,,Feito
-Linda Lambert,,200,250,2023-03-06,,Em Producao
-Vincent Pearson,,250,300,2023-02-01,2023-02-27,Entregue
-Hayley Livingston,,250,300,2023-04-20,,Em Producao
-Kerry Castillo,,150,200,2023-03-18,,Feito
-Heather Flores,,100,150,2023-03-06,,Em Producao
-Kelly Monroe,,150,200,2023-03-13,,Feito
-Nicole Sanchez,,200,250,2023-04-16,,Feito
-Robert Poole,,100,150,2023-04-01,,Em Producao
-Danny Stewart,,250,300,2023-04-02,,Feito
-Richard Ramirez,,100,150,2023-03-01,,Feito
-Bradley Parsons,,100,150,2023-04-01,2023-02-23,Entregue
-Tina Roberts,,150,200,2023-02-24,,Feito
-Elizabeth Williams,,150,200,2023-03-14,,Em Producao
-Kyle Hernandez,,300,350,2023-04-08,,Feito
-Andrew Nelson,,200,250,2023-02-22,2023-04-11,Entregue
-Charles Cruz,,300,350,2023-04-20,,Feito
-Mr. Bryan Cervantes MD,,100,150,2023-02-14,2023-04-13,Entregue
-Gregory Moore,,150,200,2023-02-01,,Feito
-James Anderson,,100,150,2023-03-21,,Feito
-Chad Welch,,200,250,2023-02-20,,Feito
-Eric Peterson,,100,150,2023-03-27,,Feito
-Anthony Cruz,,250,300,2023-03-14,,Feito
-Victor Best,,250,300,2023-01-24,,Feito
-Peter Williams DVM,,300,350,2023-03-07,,Feito
-Jamie Taylor,,250,300,2023-03-05,,Feito
-Alexis Barr,,200,250,2023-04-12,,Em Producao
-Kimberly Carroll,,150,200,2023-02-27,,Em Producao
-Thomas Johnson,,100,150,2023-02-15,,Em Producao
-Patricia Hill,,150,200,2023-02-01,,Feito
-Shannon Banks,,250,300,2023-04-20,,Em Producao
-Stephanie Johnson,,100,150,2023-02-10,,Feito
-Paul Bowers,,250,300,2023-02-16,,Feito
-Brandy Webb,,100,150,2023-03-06,,Feito
-Victoria Acosta,,300,350,2023-03-30,2023-04-04,Entregue
-Melvin Shannon,,100,150,2023-03-23,2023-01-31,Entregue
-Angela Thomas,,200,250,2023-03-29,,Feito
-Robert Todd,,250,300,2023-03-21,2023-02-06,Entregue
-Cathy Miller,,150,200,2023-03-13,,Em Producao
-Rebecca Harrison,,250,300,2023-02-20,,Em Producao
-Martin Sanchez,,150,200,2023-02-08,,Feito
-Devin Morales,,300,350,2023-03-11,,Feito
-Jennifer Carter,,200,250,2023-03-20,,Feito
-John Case,,250,300,2023-03-30,,Em Producao
-Kathleen Cooper,,100,150,2023-03-13,,Feito
-Heidi Rios,,200,250,2023-02-17,,Feito
-Bobby Fleming,,100,150,2023-03-23,,Em Producao
-Melanie Garcia,,250,300,2023-02-04,2023-03-18,Entregue
-Stacy Wallace,,300,350,2023-01-27,2023-04-21,Entregue
-Brandon Lopez,,250,300,2023-02-24,2023-03-09,Entregue
-Danielle Mullins,,300,350,2023-03-07,2023-03-18,Entregue
-Jennifer Kelly,,300,350,2023-02-21,,Feito
-Jason Baker,,250,300,2023-04-14,,Em Producao
-David Luna,,150,200,2023-01-30,,Feito
-Christina Williams,,150,200,2023-03-29,,Feito
-Sarah Evans,,150,200,2023-02-10,,Em Producao
-Matthew Allen,,200,250,2023-02-20,,Em Producao
-Tracy Richardson,,100,150,2023-04-18,,Em Producao
-William Avila,,300,350,2023-03-21,,Feito
-Shane Harris,,100,150,2023-02-09,,Feito
-James Scott,,300,350,2023-02-10,,Feito
-Holly Brown,,150,200,2023-04-16,,Feito
-Sarah Roy,,250,300,2023-04-03,,Em Producao
-Jenna Ferguson,,100,150,2023-02-13,,Feito
-Ashley Wilkinson,,150,200,2023-04-20,2023-02-10,Entregue
-Frank Schmidt,,100,150,2023-02-28,,Feito
-Michelle Greene,,200,250,2023-01-30,,Feito
-Monica Martinez,,250,300,2023-03-13,,Feito
-Joshua Anderson,,100,150,2023-04-14,,Em Producao
-Rose Johnson,,100,150,2023-01-31,,Feito
-Ryan Wells,,250,300,2023-04-22,,Em Producao
-Anthony Vasquez,,250,300,2023-01-26,,Feito
-Scott Lopez,,300,350,2023-01-31,,Em Producao
-James Nelson,,200,250,2023-02-03,,Em Producao
-Daniel Williams,,200,250,2023-02-28,,Em Producao
-Mrs. Stephanie Hensley,,200,250,2023-03-30,,Em Producao
-John Murray,,100,150,2023-01-28,,Feito
-Kelly Peterson,,150,200,2023-02-10,,Feito
-Daniel Powell,,250,300,2023-03-02,,Feito
-Jared Vaughn,,100,150,2023-02-07,,Em Producao
-Michael Wise,,150,200,2023-04-08,2023-04-03,Entregue
-Kurt Robertson,,100,150,2023-02-15,,Feito
-Catherine Villegas,,300,350,2023-02-19,,Feito
-Kara Watts,,150,200,2023-03-30,,Em Producao
-Holly Nelson,,250,300,2023-03-22,,Em Producao
-Howard Kent,,300,350,2023-02-21,,Feito
-David Powers,,100,150,2023-04-17,,Feito
-Katherine Wilkins,,300,350,2023-04-08,,Feito
-Jeff Williams,,150,200,2023-02-20,2023-03-29,Entregue
-Zachary Johnson,,250,300,2023-03-29,,Feito
-Crystal Odonnell,,100,150,2023-03-29,,Em Producao
-Ralph Sampson,,150,200,2023-03-09,,Feito
-Gabriela Park,,200,250,2023-02-24,,Feito
-Michael Wilson,,100,150,2023-03-12,2023-01-27,Entregue
-Cassandra Keller,,300,350,2023-02-27,,Feito
-Austin Wheeler,,300,350,2023-02-05,,Feito
-Gregory Washington,,250,300,2023-02-11,,Feito
-James Landry,,300,350,2023-02-20,,Feito
-Thomas Johnson,,250,300,2023-03-11,,Feito
-Misty Macias DVM,,300,350,2023-03-28,2023-02-16,Entregue
-Lisa Mccormick,,250,300,2023-02-20,,Feito
-Kristy Coleman,,250,300,2023-03-18,,Feito
-Mr. Daniel Nguyen,,150,200,2023-02-20,,Em Producao
-Christopher Rogers,,100,150,2023-03-22,,Feito
-Craig Johnson,,100,150,2023-03-04,2023-02-16,Entregue
-Dr. Taylor Anderson PhD,,200,250,2023-02-04,2023-02-10,Entregue
-Michael Thompson,,100,150,2023-03-25,,Feito
-Mark Daniels,,100,150,2023-02-11,2023-03-26,Entregue
-Jill Walters,,300,350,2023-02-08,2023-04-18,Entregue
-James Thomas,,250,300,2023-03-07,,Feito
-Juan Gray,,250,300,2023-02-09,2023-02-18,Entregue
-Timothy Cox,,100,150,2023-04-22,,Em Producao
-John Hooper,,300,350,2023-03-02,,Feito
-Carl Short,,300,350,2023-01-28,,Feito
-Heather Avila,,100,150,2023-04-08,,Em Producao
-Lindsay Case,,300,350,2023-02-22,,Feito
-Jennifer Whitaker,,250,300,2023-03-16,2023-03-03,Entregue
-Darren Lewis,,300,350,2023-04-07,,Em Producao
-Marc Williams,,100,150,2023-03-20,2023-04-14,Entregue
-Bradley Dennis,,300,350,2023-01-25,2023-03-27,Entregue
-Joseph Mendez,,100,150,2023-02-07,,Feito
-Joseph Watson,,250,300,2023-01-27,,Feito
-Wanda Brown,,250,300,2023-03-24,2023-02-03,Entregue
-Angela Baldwin,,150,200,2023-03-15,,Feito
-Brianna Henson,,100,150,2023-02-03,,Feito
-Kellie Burns,,250,300,2023-04-19,,Feito
-Jacob Moreno,,100,150,2023-04-14,,Feito
-Jason Lucas,,300,350,2023-02-18,,Em Producao
-Jacqueline Griffin,,200,250,2023-03-21,,Feito
-Diana Martinez,,150,200,2023-02-16,,Em Producao
-Jason Francis,,200,250,2023-04-20,,Em Producao
-Megan Bennett,,200,250,2023-04-21,,Feito
-Marissa Harrison,,200,250,2023-03-23,2023-03-03,Entregue
-Kenneth Patel,,150,200,2023-04-13,,Em Producao
-William Moore,,100,150,2023-03-18,,Feito
-Roger Haynes,,150,200,2023-03-11,,Feito
-Tina Allen,,200,250,2023-02-16,,Feito
-Joshua Newton,,300,350,2023-02-15,,Feito
-Christopher Brown,,200,250,2023-01-25,2023-04-09,Entregue
-Chris Mills,,200,250,2023-04-21,2023-04-04,Entregue
-Samantha Nash,,250,300,2023-04-14,2023-01-27,Entregue
-Katherine Strickland,,150,200,2023-03-19,,Feito
-Teresa Farmer,,200,250,2023-03-27,2023-02-28,Entregue
-Lisa Willis,,100,150,2023-03-12,2023-03-28,Entregue
-Rachel Gaines,,100,150,2023-03-27,,Feito
-Denise Carey,,100,150,2023-03-02,,Feito
-Jonathan Moore,,250,300,2023-04-17,,Feito
-Gary Woods,,150,200,2023-04-10,,Feito
-Barbara Estrada,,250,300,2023-02-09,,Feito
-Teresa Gordon,,150,200,2023-02-08,,Feito
-Edward Jones,,150,200,2023-02-24,,Feito
-Lori Gonzalez,,150,200,2023-02-24,2023-03-24,Entregue
-David Richardson,,300,350,2023-03-25,,Em Producao
-Phyllis Logan,,250,300,2023-04-07,,Em Producao
-Nancy Davis,,250,300,2023-02-07,2023-02-08,Entregue
-Pamela Russo,,250,300,2023-03-16,,Em Producao
-Jessica Rocha,,150,200,2023-02-10,,Feito
-Alexander Lawrence,,150,200,2023-03-21,,Feito
-Andrew Walker,,300,350,2023-01-25,,Em Producao
-Tiffany Soto,,100,150,2023-03-06,2023-03-02,Entregue
-Carolyn Huang,,300,350,2023-04-21,,Em Producao
-Lisa Johnson,,100,150,2023-02-12,2023-02-01,Entregue
-Dean Curtis,,250,300,2023-04-14,,Em Producao
-Sophia Martinez,,200,250,2023-02-26,,Em Producao
-Brian Evans,,150,200,2023-02-16,,Em Producao
-Stephanie Tyler,,200,250,2023-04-20,,Em Producao
-Ryan Harvey,,200,250,2023-04-21,,Feito
-Daniel King,,100,150,2023-01-28,,Feito
-Derrick Turner,,250,300,2023-02-24,,Em Producao
-James Harrington,,100,150,2023-01-24,,Feito
-Dr. Anna Barry,,100,150,2023-04-07,,Em Producao
-Cheryl Olson,,200,250,2023-04-10,,Em Producao
-Scott Sims,,250,300,2023-02-16,,Feito
-Catherine Myers,,250,300,2023-03-27,,Feito
-Alicia Stone,,100,150,2023-03-05,2023-02-21,Entregue
-Virginia Mcguire,,250,300,2023-04-19,2023-03-27,Entregue
-Patricia Kramer,,300,350,2023-04-06,,Em Producao
-Jesse Hicks,,100,150,2023-02-09,,Feito
-Kenneth Scott,,150,200,2023-03-30,,Feito
-Kevin Stevens,,250,300,2023-01-24,,Feito
-Kayla Clarke,,100,150,2023-03-24,,Feito
-James Green,,150,200,2023-01-29,,Em Producao
-Candice Perez,,200,250,2023-02-20,,Feito
-Rhonda Smith,,200,250,2023-03-22,2023-04-09,Entregue
-Shannon Strickland,,250,300,2023-02-02,,Em Producao
-Kelli Burns,,150,200,2023-04-19,,Feito
-James Padilla,,150,200,2023-02-09,,Em Producao
-Jessica Fisher,,150,200,2023-01-27,,Feito
-Emily Barrera,,100,150,2023-03-13,,Em Producao
-John Turner,,300,350,2023-02-04,2023-03-30,Entregue
-Robert Pope,,300,350,2023-02-12,,Feito
-Christie Burns,,200,250,2023-01-26,,Em Producao
-Willie Jimenez III,,250,300,2023-03-05,,Em Producao
-Steven Clark,,100,150,2023-03-20,2023-04-18,Entregue
-Heather Cummings,,300,350,2023-04-20,,Em Producao
-Lauren Williams,,100,150,2023-04-17,,Feito
-Lori Le,,150,200,2023-02-03,,Feito
-Christine Burch,,150,200,2023-03-14,,Feito
-Sonia Bean,,200,250,2023-02-22,2023-04-13,Entregue
-Laura Simpson,,250,300,2023-04-17,2023-01-28,Entregue
-Caitlyn Avila,,250,300,2023-03-29,,Em Producao
-Heather Young,,150,200,2023-04-22,,Em Producao
-Joseph Richardson,,300,350,2023-04-15,2023-04-10,Entregue
-Sarah Ramirez,,200,250,2023-03-23,,Feito
-Michael Butler,,250,300,2023-03-10,,Em Producao
-John Delgado,,150,200,2023-04-16,,Feito
-Andrew Robinson,,150,200,2023-03-05,,Em Producao
-John Miller,,300,350,2023-03-05,2023-02-15,Entregue
-Cindy Rodriguez,,300,350,2023-03-05,2023-03-17,Entregue
-Randy Kennedy,,100,150,2023-04-12,2023-01-25,Entregue
-Danielle Gregory,,250,300,2023-04-08,,Feito
-Karen Reeves,,200,250,2023-04-18,2023-04-02,Entregue
-Ashlee Stephens,,150,200,2023-04-16,2023-02-06,Entregue
-Sara Gillespie,,150,200,2023-02-18,,Em Producao
-Frederick Myers,,150,200,2023-01-26,,Feito
-Ronald Gutierrez,,150,200,2023-03-03,,Feito
-Ruth Mendez,,100,150,2023-03-12,,Feito
-Elizabeth Mooney,,300,350,2023-03-06,,Feito
-Eric Bryan,,250,300,2023-02-06,,Em Producao
-Laurie Calderon,,250,300,2023-04-13,,Em Producao
-Tommy Wood,,250,300,2023-03-16,,Em Producao
-Jennifer Lin,,100,150,2023-04-04,,Feito
-Tracey Fowler,,200,250,2023-04-15,2023-03-12,Entregue
-Zachary Sanchez,,100,150,2023-04-09,,Feito
-Elizabeth Brown,,300,350,2023-02-07,,Em Producao
-Trevor Crane,,150,200,2023-02-04,,Feito
-Mark Bautista,,100,150,2023-03-21,2023-02-24,Entregue
-Noah Guerra,,300,350,2023-03-03,,Feito
-Evan Stevenson,,300,350,2023-02-02,,Feito
-Stephanie Morales,,200,250,2023-01-24,,Feito
-Jennifer Taylor,,200,250,2023-03-16,,Feito
-Mike Sherman,,250,300,2023-03-11,,Em Producao
-Susan Cole,,100,150,2023-03-15,2023-02-11,Entregue
-David Greene,,200,250,2023-03-15,,Em Producao
-Chad Davenport,,250,300,2023-02-18,,Feito
-Jessica Diaz,,100,150,2023-03-04,2023-02-28,Entregue
-Lori Robinson,,250,300,2023-02-17,,Feito
-Mr. Jason Campos DVM,,100,150,2023-04-21,,Feito
-Mark Duarte,,200,250,2023-04-22,2023-02-07,Entregue
-Nicole Flores,,200,250,2023-03-15,,Em Producao
-Miss Rhonda Wallace,,250,300,2023-03-07,,Em Producao
-Lawrence Phillips,,100,150,2023-04-10,,Feito
-John Ward,,150,200,2023-03-19,,Feito
-Robert Chavez,,250,300,2023-03-27,2023-03-12,Entregue
-Cathy Black,,200,250,2023-02-04,,Feito
-Gwendolyn Singleton,,100,150,2023-04-08,,Feito
-Richard Hahn,,150,200,2023-03-16,,Em Producao
-Carl Nelson,,250,300,2023-04-21,,Feito
-John Parks,,150,200,2023-04-17,,Feito
-Joel Lloyd,,150,200,2023-04-21,,Em Producao
-Michael Collins,,200,250,2023-04-13,2023-01-27,Entregue
-Carolyn Jackson,,300,350,2023-03-07,,Em Producao
-Ashley Conley,,200,250,2023-03-18,,Em Producao
-David Edwards,,250,300,2023-04-18,2023-02-15,Entregue
-Randy Frederick,,100,150,2023-01-24,,Feito
-Matthew Yates,,100,150,2023-02-01,,Feito
-Patrick Burton,,300,350,2023-01-27,2023-04-19,Entregue
-Christina Francis,,150,200,2023-02-07,,Feito
-Maurice Gilbert,,150,200,2023-04-19,,Feito
-Julie Rhodes,,200,250,2023-03-26,,Feito
-Madison Luna,,300,350,2023-03-20,,Feito
-Diana Stephens,,150,200,2023-02-17,,Em Producao
-Megan Davis,,250,300,2023-04-12,,Feito
-Terry Oconnor,,250,300,2023-02-19,2023-01-23,Entregue
-Rodney Smith,,150,200,2023-01-31,,Feito
-Megan Arroyo,,200,250,2023-03-31,,Feito
-Paula Wiley,,100,150,2023-04-08,,Em Producao
-Joshua Davis,,150,200,2023-03-02,,Em Producao
-Samantha Newton,,200,250,2023-03-14,,Em Producao
-Kenneth Morton,,300,350,2023-02-02,,Feito
-Donna Diaz,,100,150,2023-04-05,,Feito
-Laura Reyes,,250,300,2023-03-05,2023-04-20,Entregue
-Micheal Johnson,,150,200,2023-03-24,2023-03-04,Entregue
-Shannon Gregory,,200,250,2023-02-07,,Feito
-Joseph Chapman,,200,250,2023-02-14,,Em Producao
-Kimberly Hayden,,300,350,2023-01-31,2023-02-10,Entregue
-Benjamin Anderson,,150,200,2023-03-26,2023-01-31,Entregue
-Daniel Gibson,,200,250,2023-03-16,2023-02-19,Entregue
-Maria Miller,,100,150,2023-04-07,,Feito
-Lisa Smith,,250,300,2023-02-06,,Em Producao
-Theresa Wilson,,250,300,2023-04-03,,Feito
-Gary Williams,,250,300,2023-03-01,,Em Producao
-Mario Taylor,,300,350,2023-02-25,,Feito
-Sydney Lawson,,100,150,2023-02-02,,Em Producao
-Austin Evans,,150,200,2023-03-27,,Feito
-Jeffrey Lamb V,,300,350,2023-03-12,,Feito
-Melissa Hodge,,300,350,2023-04-02,,Feito
-Justin Murphy,,150,200,2023-01-30,2023-01-24,Entregue
-David Wheeler,,150,200,2023-02-27,2023-01-31,Entregue
-Sharon Webb,,250,300,2023-03-16,,Feito
-Rebecca Coleman,,100,150,2023-04-18,,Feito
-Adam Owen,,100,150,2023-02-17,2023-04-04,Entregue
-John Foster,,150,200,2023-04-01,,Feito
-Haley Turner,,200,250,2023-03-22,,Feito
-Matthew Riley,,100,150,2023-04-17,2023-02-11,Entregue
-Erin Baker,,300,350,2023-03-19,,Em Producao
-Brenda Dean DVM,,300,350,2023-01-29,2023-03-13,Entregue
-Jordan Murphy,,150,200,2023-04-18,2023-04-09,Entregue
-Eric Berry,,200,250,2023-02-10,2023-03-30,Entregue
-Paul Turner,,200,250,2023-03-26,,Feito
-Roger Ibarra,,250,300,2023-03-18,,Feito
-Miss Kelly Barnett,,250,300,2023-01-25,,Feito
-Nicole Hernandez,,100,150,2023-03-01,2023-04-04,Entregue
-Kimberly Moore,,250,300,2023-02-21,,Feito
-Rebecca Ramos,,250,300,2023-03-05,,Em Producao
-Dr. Lauren Edwards,,100,150,2023-03-18,,Feito
-Jacqueline Jordan,,250,300,2023-02-19,,Feito
-Alejandro Guerrero,,300,350,2023-04-16,,Feito
-Joshua Combs,,200,250,2023-02-08,2023-03-14,Entregue
-Christopher Mccoy,,150,200,2023-04-09,,Em Producao
-Jessica Anderson,,200,250,2023-04-02,,Feito
-Robert Kelley,,150,200,2023-03-18,,Feito
-Kevin Jones,,200,250,2023-01-31,,Feito
-Brittany Sanchez,,250,300,2023-04-01,2023-04-05,Entregue
-Donald Mccormick,,150,200,2023-04-05,,Em Producao
-Erika Parker,,150,200,2023-02-11,,Em Producao
-Albert Dunn,,250,300,2023-03-10,2023-02-07,Entregue
-Diane Carey,,100,150,2023-02-01,,Feito
-Brandy Hunter,,250,300,2023-02-09,2023-01-29,Entregue
-Matthew Price,,200,250,2023-03-12,,Feito
-Randy Peterson,,250,300,2023-02-05,,Feito
-Patrick Willis,,100,150,2023-02-13,,Feito
-Lori Olsen,,200,250,2023-02-13,,Feito
-Scott Moody,,250,300,2023-04-13,,Em Producao
-Mark Hoffman,,300,350,2023-03-27,,Feito
-Ms. Monique Wilkerson,,300,350,2023-02-26,2023-02-15,Entregue
-David Beck,,250,300,2023-04-11,,Em Producao
-Daniel Mack,,250,300,2023-03-05,,Feito
-Elizabeth Smith,,300,350,2023-03-20,,Em Producao
-Jonathan Mcdaniel,,200,250,2023-03-12,,Feito
-Ryan Manning,,300,350,2023-03-13,,Feito
-Elijah Webster,,300,350,2023-01-30,,Em Producao
-Jessica Bush,,300,350,2023-02-24,2023-01-27,Entregue
-Monica Banks,,250,300,2023-03-14,,Feito
-Jamie Anderson,,200,250,2023-02-06,,Em Producao
-Anthony Keller,,300,350,2023-03-04,,Feito
-Roger Holloway,,250,300,2023-01-24,,Feito
-Douglas Leon,,200,250,2023-03-26,,Em Producao
-Thomas Stout,,150,200,2023-03-30,,Feito
-James Woods,,250,300,2023-03-14,2023-04-12,Entregue
-Rose Day,,100,150,2023-02-15,,Feito
-Joseph James,,300,350,2023-01-26,,Em Producao
-Jesse Brown,,100,150,2023-04-04,,Feito
-Blake Alvarez,,200,250,2023-03-11,,Feito
-Denise Smith,,200,250,2023-04-02,,Feito
-Jessica Martinez,,250,300,2023-03-10,,Feito
-Molly Garza,,300,350,2023-04-15,2023-02-06,Entregue
-Karen Hubbard,,150,200,2023-02-23,,Feito
-John Webb,,300,350,2023-02-20,,Em Producao
-Miss Pamela Williams,,150,200,2023-02-02,,Feito
-Debra Norman,,300,350,2023-02-07,,Em Producao
-Andrew Perez,,300,350,2023-04-09,2023-04-04,Entregue
-Jonathan Gonzalez,,150,200,2023-03-06,,Feito
-Nancy Frank,,100,150,2023-03-31,,Feito
-Eric Graham,,200,250,2023-02-02,2023-04-03,Entregue
-Henry Johnson,,200,250,2023-03-10,,Feito
-Joshua Little,,250,300,2023-01-27,,Em Producao
-Eric Miller,,200,250,2023-02-18,2023-02-02,Entregue
-Diana Roth,,250,300,2023-02-01,,Feito
-Jodi Lynch,,150,200,2023-03-16,,Feito
-Cynthia Ochoa,,250,300,2023-02-20,2023-03-08,Entregue
-Donald Horn,,300,350,2023-02-13,2023-03-02,Entregue
-Angela Johnston,,200,250,2023-03-30,,Feito
-Lacey Dixon,,250,300,2023-04-02,,Em Producao
-Kaitlyn Hayes,,300,350,2023-04-18,,Feito
-Andrew Guzman,,250,300,2023-01-29,,Em Producao
-Timothy Bates,,150,200,2023-02-26,,Feito
-Ashley Silva,,150,200,2023-02-18,,Feito
-Alexander Moore,,150,200,2023-03-20,,Feito
-Christopher Robles,,250,300,2023-02-03,,Feito
-Laurie Jones,,200,250,2023-02-02,2023-04-03,Entregue
-Nicole Ward,,200,250,2023-03-09,,Feito
-Brandi Tucker,,300,350,2023-02-08,,Feito
-Melissa Brown,,100,150,2023-03-24,2023-04-01,Entregue
-Ms. Jessica Sparks,,300,350,2023-04-01,,Feito
-Michael Bradley,,200,250,2023-04-08,,Feito
-Paul Morgan,,100,150,2023-04-03,,Em Producao
-Katie Browning,,200,250,2023-01-23,2023-03-31,Entregue
-Theresa Taylor,,300,350,2023-04-15,,Feito
-Sally Daniel,,100,150,2023-03-14,,Feito
-Amanda Edwards,,250,300,2023-01-30,,Em Producao
-William Hoover,,300,350,2023-03-19,,Feito
-Barbara Villa,,300,350,2023-03-28,2023-02-23,Entregue
-Scott Davis,,300,350,2023-04-06,,Feito
-Meagan Baker DVM,,200,250,2023-01-27,,Em Producao
-Mary Thornton,,300,350,2023-03-21,,Em Producao
-Joan Arnold,,200,250,2023-01-30,,Feito
-Christopher Knight,,100,150,2023-03-10,,Feito
-Austin Mcneil,,250,300,2023-03-06,2023-03-02,Entregue
-Justin Collins,,250,300,2023-01-30,2023-03-28,Entregue
-Lisa Cruz,,300,350,2023-04-07,,Feito
-Phillip Tyler,,300,350,2023-03-22,2023-03-25,Entregue
-Maria Walker,,250,300,2023-02-17,,Feito
-Sydney Jackson,,250,300,2023-03-25,,Feito
-Joel Ramsey,,100,150,2023-03-19,,Em Producao
-Kathryn Chase,,250,300,2023-04-09,,Feito
-Kara Flores,,100,150,2023-03-04,2023-02-08,Entregue
-Alyssa Smith,,200,250,2023-03-08,,Em Producao
-Gary Steele,,200,250,2023-02-15,,Feito
-Amber Foster,,150,200,2023-02-23,2023-01-26,Entregue
-Anna Lopez,,300,350,2023-03-29,,Feito
-Albert Ward,,100,150,2023-03-04,,Feito
-Matthew Day,,300,350,2023-03-29,,Em Producao
-Eric Perez,,250,300,2023-02-24,,Feito
-Jenna Howard,,100,150,2023-03-27,,Feito
-Melinda Edwards,,200,250,2023-04-17,,Feito
-Amber Mitchell,,150,200,2023-04-10,2023-03-28,Entregue
-Elizabeth York,,250,300,2023-02-12,2023-01-31,Entregue
-Kenneth Hart,,300,350,2023-03-28,2023-02-13,Entregue
-Jasmine Cantu,,200,250,2023-02-07,,Em Producao
-Christopher Harrell,,250,300,2023-03-25,,Feito
-Tonya Watkins,,200,250,2023-02-03,,Em Producao
-Gregory Lee,,250,300,2023-01-31,,Em Producao
-Olivia Carlson,,300,350,2023-03-18,,Feito
-Michael Vasquez,,300,350,2023-03-16,2023-03-20,Entregue
-Chloe Barber,,250,300,2023-04-21,,Em Producao
-Mrs. Carol Woods,,250,300,2023-02-20,,Em Producao
-Julia Gomez,,250,300,2023-02-18,,Feito
-David Gonzalez,,300,350,2023-04-19,,Feito
-Perry Chan,,200,250,2023-04-14,2023-04-10,Entregue
-Carol Summers,,300,350,2023-02-06,2023-02-01,Entregue
-Stuart Allen,,300,350,2023-03-14,,Feito
-Nicholas Nguyen,,150,200,2023-04-11,,Feito
-Duane Jones,,200,250,2023-01-31,2023-03-06,Entregue
-Hector Fitzgerald,,100,150,2023-04-18,,Feito
-Mariah Giles,,100,150,2023-04-04,,Feito
-Tiffany Cook,,300,350,2023-02-03,,Em Producao
-Melissa Lewis,,100,150,2023-04-09,,Feito
-Stephen Johnson,,300,350,2023-04-11,,Em Producao
-Thomas Massey,,200,250,2023-02-14,2023-02-20,Entregue
-Juan Campbell,,250,300,2023-04-16,,Feito
-Paul Miller,,150,200,2023-02-12,2023-03-06,Entregue
-Ellen Bell,,250,300,2023-03-17,,Feito
-Paul Smith,,200,250,2023-03-14,,Feito
-Cody Oliver,,150,200,2023-03-03,,Em Producao
-Deborah Alvarez,,100,150,2023-02-10,,Feito
-Tiffany Pugh,,100,150,2023-02-11,,Em Producao
-Michael Watkins,,300,350,2023-03-23,,Em Producao
-Shelly Williams,,100,150,2023-03-14,,Feito
-Abigail Ray,,150,200,2023-03-23,,Feito
-Sara Watson,,250,300,2023-04-04,,Feito
-Scott Maynard,,150,200,2023-04-17,,Em Producao
-Angela Rogers,,300,350,2023-03-15,,Em Producao
-Patricia Hogan,,150,200,2023-03-22,2023-03-05,Entregue
-Linda English,,100,150,2023-04-07,,Feito
-Anne Wright,,250,300,2023-02-08,2023-04-20,Entregue
-Christian Adkins,,100,150,2023-04-04,,Feito
-Chad Shaw,,250,300,2023-03-24,,Feito
-Tracey Johnson,,100,150,2023-04-10,,Em Producao
-Samantha Perkins,,250,300,2023-03-22,2023-02-08,Entregue
-Jeffery Pierce,,250,300,2023-03-08,,Feito
-Shelby Bush MD,,200,250,2023-04-20,,Feito
-Bradley Lara,,100,150,2023-01-25,,Feito
-Christopher Anderson,,300,350,2023-02-10,,Feito
-Raymond Smith,,250,300,2023-04-10,2023-03-01,Entregue
-Joel Fitzgerald,,200,250,2023-04-14,,Em Producao
-Sarah Hill,,200,250,2023-03-11,,Em Producao
-Aaron Carney,,200,250,2023-03-17,,Feito
-Gina Thomas,,150,200,2023-03-19,,Feito
-Travis Thompson,,250,300,2023-03-21,,Feito
-Chloe Dominguez,,200,250,2023-03-25,,Feito
-Monica Hernandez,,150,200,2023-02-19,,Feito
-Paula Jones,,150,200,2023-04-13,,Feito
-Scott Benson,,200,250,2023-04-12,2023-03-25,Entregue
-Alyssa Trevino,,150,200,2023-02-14,2023-04-13,Entregue
-Chase Byrd,,100,150,2023-04-21,,Em Producao
-Sharon Flowers,,250,300,2023-04-18,2023-02-14,Entregue
-Brian Gonzalez,,250,300,2023-03-24,2023-04-17,Entregue
-Emily White,,200,250,2023-04-10,2023-04-14,Entregue
-Miss Krystal Sanders MD,,150,200,2023-01-24,,Em Producao
-Christopher Rocha,,150,200,2023-01-28,2023-03-29,Entregue
-Michael Miller,,200,250,2023-01-29,,Em Producao
-Blake Flowers,,300,350,2023-02-19,,Feito
-Joseph Wade,,200,250,2023-04-22,2023-03-04,Entregue
-Robert Rivas,,200,250,2023-03-19,,Feito
-Tyrone Mcbride,,100,150,2023-03-26,,Feito
-Heather Martinez,,200,250,2023-04-12,,Feito
-Natasha Contreras,,250,300,2023-03-08,,Feito
-Peter Odom,,100,150,2023-01-26,2023-03-02,Entregue
-Karen Bennett,,250,300,2023-01-25,,Em Producao
-David Johnson,,150,200,2023-03-22,,Em Producao
-Emily Adams,,150,200,2023-03-12,2023-02-02,Entregue
-Anne Shah MD,,200,250,2023-02-26,2023-02-07,Entregue
-Nicole Harris,,250,300,2023-03-19,2023-04-19,Entregue
-Justin Morrow,,200,250,2023-03-12,,Feito
-Elizabeth Kent,,100,150,2023-01-28,,Feito
-Benjamin Rodriguez,,150,200,2023-03-28,,Feito
-Steven Miller,,150,200,2023-02-14,,Em Producao
-Amber Williams,,100,150,2023-04-08,,Feito
-Gregory Conley,,250,300,2023-02-07,2023-02-28,Entregue
-Elizabeth Richards,,100,150,2023-02-04,,Feito
-William Bird,,150,200,2023-02-01,2023-02-18,Entregue
-Keith Rivera,,150,200,2023-01-25,,Em Producao
-Andrew Hahn,,150,200,2023-03-25,2023-03-07,Entregue
-Kyle Bell,,150,200,2023-03-07,,Feito
-Tiffany Mccullough,,100,150,2023-03-27,2023-03-21,Entregue
-Martin Carter,,300,350,2023-02-07,,Feito
-Rodney Williams,,300,350,2023-04-15,2023-03-24,Entregue
-Jennifer Flores,,250,300,2023-03-15,2023-02-21,Entregue
-April Wilson,,250,300,2023-03-16,2023-01-30,Entregue
-Lance Oneal,,100,150,2023-01-23,2023-04-02,Entregue
-Mr. Timothy Proctor,,300,350,2023-02-24,,Em Producao
-John Morgan,,100,150,2023-01-24,,Feito
-Jeffery Colon,,100,150,2023-03-17,,Feito
-Brandon Chavez,,300,350,2023-02-21,2023-03-13,Entregue
-Kelsey Martin,,300,350,2023-03-14,,Em Producao
-Connor Webb,,150,200,2023-02-09,,Feito
-Thomas Morris,,200,250,2023-01-31,2023-04-04,Entregue
-Carrie Parker,,150,200,2023-01-25,2023-04-06,Entregue
-Susan Rodriguez DVM,,300,350,2023-02-13,2023-02-10,Entregue
-Austin Benitez,,250,300,2023-02-05,,Em Producao
-Melanie White,,300,350,2023-04-02,,Feito
-Brittney Alvarez,,250,300,2023-04-12,2023-02-01,Entregue
-Stephen Davis,,150,200,2023-02-10,,Feito
-Mrs. Jasmine Salazar,,200,250,2023-01-25,,Em Producao
-Kristen Clarke,,100,150,2023-03-19,2023-01-23,Entregue
-Lisa Leonard,,150,200,2023-04-12,,Em Producao
-Jason Lynch,,300,350,2023-04-20,,Feito
-Phillip Hicks,,150,200,2023-03-14,,Feito
-Sarah Lawrence,,100,150,2023-04-13,,Em Producao
-Kimberly Summers,,250,300,2023-02-06,2023-03-14,Entregue
-Curtis Stafford,,100,150,2023-04-14,2023-02-12,Entregue
-Bryan Ingram,,250,300,2023-04-16,,Em Producao
-Bryan Morris,,300,350,2023-03-09,,Feito
-Dr. Travis Bridges DVM,,250,300,2023-02-11,,Em Producao
-Tommy Pearson,,150,200,2023-04-07,,Feito
-Michael Mccarty,,250,300,2023-04-11,2023-02-01,Entregue
-Derek Solis,,250,300,2023-02-26,,Em Producao
-John Stewart,,200,250,2023-01-25,2023-02-09,Entregue
-Nicole Spears,,300,350,2023-03-28,2023-04-06,Entregue
-William Castro,,200,250,2023-03-14,2023-02-17,Entregue
-Suzanne Nelson,,250,300,2023-02-14,,Feito
-Daniel Johnson,,250,300,2023-04-12,2023-03-20,Entregue
-Jason Roberts,,300,350,2023-03-27,,Feito
-Darlene Anderson,,200,250,2023-02-16,2023-02-23,Entregue
-Carol Fisher,,200,250,2023-03-12,,Feito
-Debra Allen,,200,250,2023-04-20,,Em Producao
-Derek Rodriguez,,300,350,2023-04-01,,Feito
-Kelli Cruz,,200,250,2023-02-04,,Em Producao
-David Davis,,300,350,2023-03-30,,Feito
-Teresa Hawkins,,250,300,2023-01-26,,Feito
-Steven Schaefer,,100,150,2023-04-05,2023-04-12,Entregue
-John Baker,,300,350,2023-03-01,,Feito
-Robert Roberts,,150,200,2023-03-13,,Feito
-Lee Vincent,,250,300,2023-01-28,2023-02-26,Entregue
-Isabella White,,150,200,2023-03-22,,Feito
-Robert Pierce,,100,150,2023-03-25,2023-03-08,Entregue
-Robert Higgins,,100,150,2023-03-13,,Feito
-Christopher Vega,,250,300,2023-03-07,,Feito
-Colleen Wright,,100,150,2023-02-05,2023-04-18,Entregue
-Jennifer Cruz,,200,250,2023-03-07,2023-03-26,Entregue
-Robert Zhang,,200,250,2023-02-02,,Feito
-Jeffrey Mcdowell,,250,300,2023-03-30,,Em Producao
-Ernest Watson,,250,300,2023-03-29,,Feito
-Nicholas Sanchez,,300,350,2023-04-07,,Feito
-Deanna Sanders,,150,200,2023-02-04,,Em Producao
-John Mckinney MD,,250,300,2023-03-03,2023-04-18,Entregue
-David Johnson,,250,300,2023-02-08,2023-03-18,Entregue
-Ashley Price,,300,350,2023-04-05,,Em Producao
-Cole Johnson,,300,350,2023-04-03,,Feito
-Nicholas Miller,,150,200,2023-04-13,,Em Producao
-Brooke Jackson,,150,200,2023-03-27,,Feito
-Stephanie Miller,,250,300,2023-03-12,,Feito
-Christopher Valenzuela,,200,250,2023-04-08,,Em Producao
-Robert Wilkerson,,100,150,2023-01-29,,Em Producao
-Andrew Hoffman,,100,150,2023-02-08,2023-03-09,Entregue
-Sherry Clarke,,300,350,2023-03-02,,Feito
-Michael Glover,,100,150,2023-03-05,2023-03-12,Entregue
-Douglas Estes,,250,300,2023-03-19,,Em Producao
-Brian Thomas,,100,150,2023-01-25,,Feito
-Rodney Hale,,150,200,2023-03-24,2023-02-12,Entregue
-David Reynolds,,150,200,2023-03-08,,Feito
-Connie Jones,,100,150,2023-01-27,2023-03-20,Entregue
-Meghan Mckee,,250,300,2023-03-16,,Feito
-Matthew Bauer,,200,250,2023-01-23,2023-03-28,Entregue
-Melissa Carroll,,150,200,2023-04-19,,Feito
-Gregory Morales,,150,200,2023-03-14,,Em Producao
-Tanya Ortiz,,250,300,2023-02-13,2023-02-03,Entregue
-Kyle Watkins,,250,300,2023-04-13,,Feito
-Rebecca Farley,,200,250,2023-02-08,,Em Producao
-Richard Byrd,,300,350,2023-03-07,,Feito
-Joshua Todd,,100,150,2023-02-19,2023-04-02,Entregue
-Mark Owens,,300,350,2023-04-21,,Feito
-Melanie Bennett,,300,350,2023-03-06,,Em Producao
-Abigail Wilson,,100,150,2023-02-25,,Em Producao
-Benjamin Clark,,200,250,2023-02-15,,Em Producao
-Kevin Carpenter,,150,200,2023-02-06,,Em Producao
-Amanda Cook,,100,150,2023-02-10,,Feito
-Aaron Kemp,,200,250,2023-02-18,,Feito
-Peter Daniels,,250,300,2023-04-12,,Em Producao
-Sara Strickland,,250,300,2023-02-22,,Feito
-Christine Miller,,200,250,2023-02-21,,Em Producao
-Victoria Jenkins,,100,150,2023-02-14,2023-04-09,Entregue
-Steven Rowe,,100,150,2023-04-20,,Feito
-Grant Wilson,,200,250,2023-04-15,,Feito
-Jessica Esparza,,250,300,2023-04-13,2023-03-17,Entregue
-Daniel Cannon DVM,,200,250,2023-02-01,2023-04-05,Entregue
-Benjamin Thomas DDS,,300,350,2023-03-11,,Em Producao
-Joanna Hardin,,250,300,2023-04-02,,Em Producao
-Johnny Carlson,,200,250,2023-01-23,,Feito
-Cassandra Smith,,100,150,2023-04-13,,Em Producao
-asd,,150,200,2023-04-23,2022-05-23,Entregue
-123,123,123,123,2023-04-23,213,123
+Tammy Buchanan,,100,200,2023-03-29,2023-05-27,Entregue
+Matthew Wright,,200,300,2023-04-02,,Em Producao
+Phyllis Collins,,250,350,2023-04-01,2023-04-07,Feito
+Nicole Hernandez,,100,150,2023-03-26,,Em Producao
+Christina Hamilton,,100,200,2023-03-31,,Em Producao
+Richard Holloway,,250,350,2023-03-14,2023-04-25,Feito
+Megan Lucas,,100,150,2023-04-19,2023-05-23,Entregue
+Tina Rivera,,200,300,2023-06-01,2023-06-05,Feito
+Lisa Hughes,,100,200,2023-05-21,,Em Producao
+James Daugherty,,100,200,2023-05-18,2023-05-21,Entregue
+Keith Lloyd,,150,250,2023-05-01,,Em Producao
+Christopher Gray,,100,200,2023-03-31,2023-04-07,Entregue
+Jon Cantu,,250,300,2023-05-16,2023-05-18,Feito
+Sandra Young,,200,250,2023-03-09,2023-04-27,Entregue
+Jerry Owens,,100,200,2023-03-27,,Em Producao
+Jeanne Jackson,,100,200,2023-03-20,,Em Producao
+Adam Serrano,,250,350,2023-04-03,2023-04-16,Feito
+Jill Thompson,,200,300,2023-03-18,2023-04-14,Feito
+Wesley Shepherd,,150,250,2023-04-28,,Em Producao
+Jared Calderon,,150,250,2023-05-19,2023-05-24,Entregue
+Antonio White,,250,300,2023-04-01,,Em Producao
+Tiffany Lynch,,100,150,2023-05-07,,Em Producao
+Matthew Smith,,300,350,2023-03-26,2023-05-17,Entregue
+Dylan Wade,,150,200,2023-03-27,2023-04-04,Entregue
+Jennifer Hicks,,100,150,2023-05-02,,Em Producao
+Mr. Joshua Walter,,250,300,2023-03-14,,Em Producao
+John Martinez,,150,250,2023-04-06,2023-04-09,Entregue
+John Boone,,200,250,2023-04-27,2023-05-13,Entregue
+Sheila Brown,,150,250,2023-05-31,,Em Producao
+Jonathan Parks,,250,300,2023-04-01,,Em Producao
+Todd Snyder,,250,350,2023-03-23,2023-03-31,Entregue
+Joseph Bowers II,,200,250,2023-03-23,2023-04-09,Entregue
+Bonnie Clark,,200,250,2023-05-16,2023-05-27,Entregue
+David Navarro,,100,150,2023-05-31,,Em Producao
+Heather Clark,,150,250,2023-03-26,2023-03-29,Entregue
+Rebecca Acosta,,250,300,2023-03-20,,Em Producao
+Ashley Smith,,150,200,2023-05-04,2023-05-09,Feito
+John Hernandez,,150,200,2023-04-19,2023-05-09,Entregue
+Brenda Small,,250,350,2023-04-11,2023-05-13,Entregue
+Alex Morales,,150,250,2023-04-25,2023-05-10,Entregue
+Anthony Smith,,250,300,2023-03-11,2023-05-22,Feito
+Jerry Herrera,,300,350,2023-05-15,2023-06-06,Entregue
+Herbert Morgan,,200,250,2023-03-12,2023-05-25,Feito
+Jeremy Long,,300,350,2023-04-20,,Em Producao
+Michael Lucas,,150,250,2023-03-13,2023-05-13,Feito
+Erika White,,100,150,2023-05-03,2023-05-27,Feito
+John Caldwell,,250,300,2023-04-28,,Em Producao
+Fernando Paul,,100,150,2023-04-30,2023-05-04,Entregue
+Anthony Mathis,,250,300,2023-03-28,,Em Producao
+Stephen Vega,,250,350,2023-03-18,,Em Producao
+Mark Walters,,250,350,2023-04-17,2023-04-20,Feito
+Anna Thompson,,100,200,2023-03-13,2023-04-02,Entregue
+Erica Garcia,,200,300,2023-05-19,2023-05-23,Entregue
+Nathaniel Prince,,150,200,2023-03-16,,Em Producao
+Steven Hansen,,150,250,2023-04-01,,Em Producao
+Steven Cole MD,,200,300,2023-05-17,2023-05-27,Entregue
+Melody Lucas,,150,200,2023-05-17,,Em Producao
+Brian Edwards,,150,250,2023-03-27,2023-05-21,Entregue
+Nicholas Miranda,,300,400,2023-05-01,,Em Producao
+Stephanie Fernandez,,150,200,2023-05-30,2023-06-04,Feito
+Ashley Baird,,100,150,2023-04-13,,Em Producao
+Robert Clayton,,100,200,2023-04-23,,Em Producao
+Diana White,,200,300,2023-05-04,,Em Producao
+Laura Chambers,,250,350,2023-03-25,2023-04-10,Feito
+Neil Allen,,200,250,2023-05-10,2023-05-19,Entregue
+Shannon Hall,,100,150,2023-03-22,2023-04-06,Entregue
+Philip Koch,,300,400,2023-05-04,2023-05-04,Entregue
+Corey Smith,,150,200,2023-04-03,2023-05-02,Entregue
+Melissa Lee,,200,250,2023-03-20,2023-05-30,Entregue
+Matthew Allen,,150,200,2023-05-25,2023-06-04,Entregue
+Barry Chavez,,100,150,2023-03-15,2023-04-02,Feito
+Michael Webb,,200,250,2023-03-11,2023-03-18,Entregue
+Joseph Ramsey,,200,250,2023-04-28,2023-05-16,Entregue
+Christian Reed,,250,300,2023-04-16,2023-05-22,Entregue
+Craig Phillips,,100,200,2023-05-18,,Em Producao
+Christopher Smith,,200,250,2023-03-14,2023-06-05,Feito
+Eric Scott,,100,150,2023-03-17,2023-04-18,Entregue
+Michelle Pena,,300,350,2023-04-12,2023-04-18,Entregue
+Samuel Forbes,,100,200,2023-06-02,2023-06-04,Feito
+Audrey Murray,,300,400,2023-03-12,2023-04-10,Entregue
+Megan Krause,,250,350,2023-03-22,2023-03-28,Entregue
+Joshua Gonzales Jr.,,250,300,2023-03-15,2023-03-23,Entregue
+Brandy Perez,,100,150,2023-04-10,2023-05-14,Entregue
+Paul Smith,,300,350,2023-05-04,2023-05-16,Feito
+Megan Drake,,200,250,2023-04-24,2023-05-10,Feito
+Dr. Daniel Booth MD,,200,300,2023-05-08,2023-05-26,Entregue
+Christopher Thomas,,100,150,2023-06-01,,Em Producao
+Christopher Stevenson,,150,200,2023-04-18,,Em Producao
+Steven Quinn,,150,250,2023-03-24,2023-04-26,Feito
+Charles Shepard,,300,350,2023-03-17,2023-05-03,Entregue
+Alicia Hill,,200,300,2023-05-31,2023-06-01,Feito
+Susan Wright,,250,300,2023-03-15,2023-04-05,Feito
+James Watkins,,200,300,2023-05-07,,Em Producao
+Monica Sanchez DDS,,250,300,2023-04-15,2023-04-23,Feito
+Bruce Warner,,300,400,2023-03-23,2023-04-29,Entregue
+Eric Taylor,,250,350,2023-03-12,2023-03-28,Entregue
+Brett Pena,,150,250,2023-05-12,,Em Producao
+Elizabeth Rodriguez,,150,200,2023-05-03,2023-05-20,Feito
+Megan Walker,,150,200,2023-05-05,2023-05-16,Feito
+Kelly Jackson,,100,150,2023-03-24,2023-04-25,Feito
+Andre Rice,,150,250,2023-05-14,2023-06-02,Entregue
+Patricia Anderson,,100,200,2023-04-30,2023-06-06,Entregue
+Karen Pham,,100,200,2023-04-28,2023-05-07,Feito
+David Rose,,200,300,2023-04-26,2023-05-20,Entregue
+Mr. Alfred Dorsey,,200,250,2023-04-29,2023-05-10,Entregue
+Andrea Pena,,100,150,2023-03-09,,Em Producao
+John Lowe,,100,200,2023-05-04,2023-06-03,Entregue
+Brian Johnson,,250,300,2023-03-25,2023-05-06,Feito
+Brittany Smith,,100,150,2023-04-23,2023-04-23,Entregue
+Mrs. Michele Wise,,200,250,2023-03-28,2023-04-12,Entregue
+Louis Norman,,250,350,2023-04-17,2023-05-30,Feito
+Jennifer Powell,,250,350,2023-05-21,,Em Producao
+Heidi Smith,,100,150,2023-05-20,2023-06-06,Entregue
+Michael Mata,,150,250,2023-04-18,2023-05-07,Feito
+Curtis Mckinney,,200,300,2023-03-21,2023-05-25,Entregue
+Richard Flores MD,,300,350,2023-05-08,2023-06-01,Feito
+Andre Donovan,,250,300,2023-04-05,2023-05-25,Entregue
+Rebecca Fernandez,,300,350,2023-05-29,2023-05-31,Feito
+Anne Mercer,,100,150,2023-03-13,2023-03-21,Feito
+Debbie Suarez,,300,350,2023-04-25,,Em Producao
+Jose Bolton,,100,150,2023-04-24,,Em Producao
+Aaron Bell,,150,250,2023-03-16,2023-03-24,Entregue
+Noah Richardson,,100,150,2023-05-19,2023-05-21,Feito
+Richard Stein,,100,200,2023-03-26,2023-05-20,Entregue
+John Hall,,100,200,2023-04-21,,Em Producao
+Kelly Butler,,100,150,2023-04-08,2023-05-13,Feito
+Donna Marks,,200,250,2023-06-02,2023-06-05,Entregue
+Ashley Aguilar,,250,300,2023-05-06,,Em Producao
+Diana Owen,,100,200,2023-03-23,2023-05-31,Entregue
+Michael Callahan,,200,300,2023-05-07,,Em Producao
+Alexander Vasquez,,150,250,2023-03-14,2023-05-09,Entregue
+Donna Taylor,,200,300,2023-05-18,,Em Producao
+Alex Figueroa,,100,150,2023-03-10,2023-04-21,Feito
+Yolanda Pearson,,300,400,2023-06-01,2023-06-01,Entregue
+Casey Lewis,,250,350,2023-04-20,2023-05-13,Entregue
+Candace Taylor,,250,300,2023-04-19,,Em Producao
+Terry Barnes DVM,,200,300,2023-03-18,2023-05-06,Entregue
+Todd Evans,,150,250,2023-03-29,,Em Producao
+Katherine Schmidt,,150,200,2023-03-26,2023-05-13,Entregue
+Jesse Porter,,300,350,2023-04-29,2023-05-20,Feito
+James Coleman,,300,350,2023-03-19,,Em Producao
+Erin Moreno,,200,300,2023-04-30,2023-05-21,Entregue
+George Walker,,150,250,2023-04-21,2023-05-21,Feito
+Laura Daniel,,200,250,2023-04-14,2023-05-04,Entregue
+Madison Oliver,,200,300,2023-05-31,2023-06-05,Feito
+Diane Cox,,200,250,2023-03-27,2023-04-06,Entregue
+Kelly Mcpherson,,100,200,2023-03-21,,Em Producao
+Richard Horton,,250,300,2023-04-07,2023-05-10,Entregue
+Luke Stone,,100,150,2023-05-21,2023-06-06,Entregue
+Jessica Nelson,,150,250,2023-04-03,2023-06-06,Feito
+David Brock,,250,350,2023-03-31,2023-05-10,Feito
+Javier Espinoza,,300,350,2023-04-11,2023-05-01,Feito
+Carl Black,,200,250,2023-05-25,2023-06-06,Feito
+Sarah Jones,,250,350,2023-05-26,,Em Producao
+Jason Green,,150,200,2023-05-06,,Em Producao
+Diana Lambert,,250,300,2023-04-27,2023-04-27,Feito
+Timothy Hawkins,,150,250,2023-05-20,2023-05-28,Entregue
+Jennifer Spence,,150,250,2023-05-15,,Em Producao
+Lisa Carter,,300,350,2023-06-01,2023-06-03,Feito
+Aaron Rivera DVM,,300,350,2023-06-04,2023-06-04,Feito
+Adriana Smith,,200,300,2023-05-16,,Em Producao
+Colleen Coleman,,200,250,2023-05-25,,Em Producao
+Samuel Young,,200,250,2023-03-31,2023-05-15,Entregue
+Ryan Trevino,,100,200,2023-05-23,,Em Producao
+Barbara King,,100,150,2023-04-24,2023-05-06,Entregue
+Sara Brewer,,250,350,2023-04-18,,Em Producao
+Andre Bradley,,100,200,2023-03-15,2023-03-25,Entregue
+Amanda Perkins,,250,350,2023-04-14,2023-04-25,Feito
+Michael Phelps,,250,350,2023-04-25,2023-04-26,Feito
+Christopher Heath,,250,350,2023-05-21,2023-06-06,Entregue
+Devin Scott,,250,300,2023-03-11,2023-05-30,Entregue
+Heather Brennan,,100,200,2023-04-12,2023-04-23,Feito
+Edward Ware,,200,300,2023-03-31,2023-04-19,Feito
+Andrew Morgan,,150,250,2023-05-25,2023-05-30,Entregue
+Melissa Francis,,150,250,2023-04-04,2023-05-08,Feito
+Julie Berger,,200,300,2023-05-18,2023-06-01,Entregue
+Karla Dominguez,,250,350,2023-03-19,2023-05-14,Entregue
+Robert Cochran,,250,300,2023-04-23,2023-05-18,Feito
+Brenda Gonzalez,,200,250,2023-03-31,,Em Producao
+Jonathan Ramos,,200,300,2023-04-17,2023-05-18,Feito
+Caitlyn Pittman,,150,250,2023-05-26,2023-06-05,Entregue
+Robin Martin,,100,150,2023-06-06,2023-06-06,Entregue
+Kimberly Maldonado,,250,350,2023-03-23,,Em Producao
+Michael Brennan,,300,350,2023-04-21,2023-05-06,Feito
+Clifford Prince,,200,250,2023-05-30,2023-06-02,Feito
+Diane Mitchell,,100,200,2023-04-09,2023-04-15,Feito
+Rebecca Lloyd,,200,300,2023-05-23,2023-05-26,Entregue
+Michelle Brown,,150,250,2023-03-09,2023-05-19,Entregue
+Christopher Lee,,300,350,2023-04-16,,Em Producao
+Sara Taylor,,150,200,2023-03-22,2023-04-18,Feito
+Christine Walker,,200,250,2023-05-16,2023-05-17,Entregue
+Jason Lamb,,250,350,2023-04-07,2023-05-16,Entregue
+Victoria Scott,,250,350,2023-05-03,,Em Producao
+Elizabeth White,,300,350,2023-05-27,2023-05-30,Feito
+Jamie Rivera,,150,250,2023-05-28,2023-05-30,Feito
+Ann Perez,,200,300,2023-03-10,2023-05-15,Feito
+Gregory Peterson,,250,350,2023-04-12,2023-05-23,Entregue
+Robert Parker,,200,250,2023-05-27,,Em Producao
+Lisa Taylor,,150,200,2023-05-20,2023-05-30,Feito
+Phillip Miller,,150,250,2023-04-15,2023-04-20,Feito
+Steven Gonzales,,100,200,2023-06-05,2023-06-05,Feito
+Tiffany Lewis,,300,400,2023-03-23,,Em Producao
+Jamie Miller,,100,200,2023-04-05,2023-04-20,Entregue
+Heather Castillo,,150,200,2023-05-09,,Em Producao
+Shelby Noble,,300,400,2023-05-21,2023-05-21,Entregue
+Melissa Bowers,,200,250,2023-05-26,2023-05-29,Entregue
+Dennis Myers MD,,300,350,2023-03-24,2023-05-26,Entregue
+Kimberly Anderson,,200,300,2023-05-14,2023-05-18,Entregue
+Mary Kelly,,150,250,2023-05-17,2023-06-05,Feito
+Kimberly Nelson,,100,200,2023-05-27,2023-05-28,Feito
+Elizabeth Contreras,,250,300,2023-05-16,2023-05-23,Entregue
+Amber Ortega,,200,300,2023-05-08,2023-05-18,Entregue
+Phillip Fitzpatrick,,250,350,2023-04-29,2023-05-22,Feito
+Maria King,,150,250,2023-04-09,2023-05-14,Entregue
+Natasha Sellers,,250,350,2023-04-02,2023-05-29,Feito
+Mark Ayala,,300,400,2023-05-07,,Em Producao
+Mrs. Kristen Schultz,,100,150,2023-05-28,2023-05-31,Feito
+Victor Hardy,,100,200,2023-05-02,2023-05-16,Entregue
+Mary Meyer,,100,200,2023-06-03,,Em Producao
+Marissa Russell,,100,150,2023-03-25,2023-04-04,Entregue
+Anna Lane,,200,300,2023-05-16,2023-05-23,Feito
+Joseph Evans,,250,350,2023-04-01,,Em Producao
+Christopher Phillips,,100,150,2023-04-07,,Em Producao
+Ross Owen,,300,400,2023-05-16,,Em Producao
+Jared Griffin,,300,400,2023-04-16,2023-05-09,Entregue
+Ruth Turner,,150,200,2023-03-31,2023-05-05,Entregue
+Scott Duran,,100,150,2023-04-16,2023-04-17,Feito
+David Gonzalez,,100,150,2023-04-21,2023-05-12,Entregue
+Michael Taylor,,100,150,2023-03-31,2023-04-29,Entregue
+Megan Wilson,,150,200,2023-03-13,,Em Producao
+Bethany Morgan,,250,300,2023-05-10,2023-06-03,Feito
+Jennifer Williams,,300,400,2023-04-22,2023-04-22,Entregue
+Jenna Willis,,100,150,2023-04-18,2023-04-19,Entregue
+Evelyn Taylor,,150,250,2023-05-11,,Em Producao
+Francisco Cameron,,300,350,2023-03-11,2023-04-14,Entregue
+Kimberly Doyle,,200,250,2023-03-29,2023-04-11,Entregue
+Lori Webb,,100,200,2023-05-16,2023-06-05,Entregue
+Kristen Gardner,,150,200,2023-05-02,2023-05-12,Feito
+Terri Glass,,250,350,2023-05-31,2023-06-04,Feito
+Jonathan Salinas,,150,250,2023-05-14,2023-05-21,Entregue
+Samuel Turner,,100,150,2023-05-19,2023-05-20,Entregue
+Jessica Hogan,,150,250,2023-04-03,,Em Producao
+Nicole Graham,,300,350,2023-05-11,,Em Producao
+Arthur Moore,,100,150,2023-04-14,2023-05-01,Feito
+Eric Armstrong,,200,250,2023-04-02,,Em Producao
+Peter Arellano,,200,300,2023-06-03,,Em Producao
+James Munoz,,100,200,2023-04-18,,Em Producao
+Brenda King,,300,400,2023-03-13,,Em Producao
+Eduardo Chan,,100,200,2023-05-13,2023-06-03,Feito
+Kevin Duncan,,300,350,2023-05-10,,Em Producao
+Zachary Alvarado,,300,350,2023-04-10,2023-04-23,Entregue
+Alicia Harris,,250,300,2023-03-12,2023-04-25,Entregue
+Tammy Wilson,,100,200,2023-04-17,,Em Producao
+Janet Brooks,,200,250,2023-04-09,2023-05-04,Entregue
+Roger Baker,,100,150,2023-05-23,,Em Producao
+Julie Weber,,250,350,2023-05-13,2023-05-29,Entregue
+Deborah Martinez,,250,300,2023-06-05,2023-06-06,Entregue
+Christopher Thomas,,250,350,2023-03-24,2023-05-04,Feito
+Angel King,,100,150,2023-05-08,2023-06-05,Feito
+Thomas Tate MD,,150,250,2023-04-18,,Em Producao
+Robert Brady,,100,200,2023-03-10,,Em Producao
+Holly Davis,,300,350,2023-04-02,2023-05-07,Feito
+Victoria Ray,,100,200,2023-03-23,,Em Producao
+Gabriela Peck,,100,200,2023-05-13,2023-06-04,Entregue
+Daniel Shelton,,100,150,2023-03-17,2023-05-19,Feito
+Gabrielle Murillo,,200,250,2023-05-24,2023-06-02,Feito
+Julie Maldonado,,150,250,2023-03-15,,Em Producao
+Kathryn Brown,,200,250,2023-06-06,2023-06-06,Feito
+Ryan Miller,,100,150,2023-05-27,2023-06-05,Entregue
+Benjamin Garcia,,150,200,2023-05-07,2023-05-16,Feito
+Juan Kennedy,,250,350,2023-04-14,2023-05-21,Feito
+Joseph Lozano,,200,300,2023-03-25,2023-04-26,Entregue
+Stephen Graham,,100,200,2023-05-15,,Em Producao
+Tiffany Burgess,,100,200,2023-03-25,,Em Producao
+Courtney Howell,,250,300,2023-03-26,2023-04-10,Entregue
+Andre Bowman,,150,200,2023-05-26,2023-06-05,Feito
+Matthew Martin,,150,200,2023-05-09,2023-05-19,Entregue
+Brenda Morales,,200,250,2023-04-15,2023-05-22,Feito
+Darren Sawyer,,100,150,2023-06-06,,Em Producao
+John Johnson,,200,300,2023-03-13,2023-05-26,Feito
+Eric Richmond,,200,300,2023-06-04,2023-06-04,Entregue
+Troy Alvarez Jr.,,250,350,2023-04-28,2023-05-02,Entregue
+Debra Weaver,,300,400,2023-05-22,2023-06-01,Feito
+Kevin Jimenez,,250,300,2023-05-15,2023-05-20,Entregue
+Paul House,,200,250,2023-04-12,,Em Producao
+James Cline,,100,150,2023-05-10,,Em Producao
+Dr. Gabriela Monroe,,200,300,2023-03-20,2023-05-09,Entregue
+Laura Perez,,300,350,2023-05-13,,Em Producao
+Jessica Anderson,,250,300,2023-05-31,2023-06-01,Entregue
+Lee Ford,,200,250,2023-04-11,2023-05-30,Entregue
+James Mullins,,100,150,2023-05-10,2023-05-16,Entregue
+Melissa Robinson,,150,200,2023-05-16,,Em Producao
+Destiny Johnson,,100,200,2023-05-26,2023-05-29,Entregue
+Jacob Hernandez,,250,300,2023-05-20,2023-05-24,Feito
+Taylor Rodriguez,,300,350,2023-04-22,2023-05-26,Feito
+Ellen Wright,,300,400,2023-05-01,,Em Producao
+Jessica Velasquez,,150,200,2023-03-16,2023-05-14,Entregue
+Christopher Owens,,300,400,2023-04-13,2023-05-24,Entregue
+Cheyenne Perez,,300,350,2023-03-20,2023-04-11,Feito
+George Dodson,,150,200,2023-05-28,2023-05-28,Feito
+Melinda Brown,,300,350,2023-04-05,2023-05-09,Feito
+Lisa Kim,,250,300,2023-04-01,,Em Producao
+Sheryl Rodriguez,,250,300,2023-03-28,2023-04-30,Entregue
+Jennifer Wiley,,100,200,2023-05-15,2023-06-03,Entregue
+Sarah Miller,,150,250,2023-04-04,2023-05-02,Entregue
+Theresa Morales,,250,350,2023-05-06,2023-05-24,Entregue
+Laura Cohen,,150,250,2023-03-26,2023-05-18,Entregue
+Michele Lloyd,,300,350,2023-05-29,2023-06-06,Entregue
+Richard Landry,,100,200,2023-03-21,2023-06-04,Feito
+Bryan Jones,,100,150,2023-06-03,2023-06-06,Entregue
+Johnny Schmitt,,100,150,2023-03-09,,Em Producao
+David Allison II,,300,350,2023-05-23,2023-06-01,Feito
+David Olsen,,250,300,2023-03-09,,Em Producao
+Elizabeth Howell,,100,200,2023-05-09,,Em Producao
+Keith Myers,,100,150,2023-05-14,,Em Producao
+Kayla Patterson,,100,200,2023-03-21,2023-04-22,Entregue
+Donald Fields,,150,250,2023-05-04,2023-05-16,Entregue
+Linda Hill,,200,300,2023-03-29,,Em Producao
+Brittany Jenkins,,300,350,2023-05-08,,Em Producao
+Michael Jimenez MD,,250,350,2023-04-06,,Em Producao
+Brenda Estrada,,250,300,2023-05-24,2023-06-03,Entregue
+Kyle Johnson,,300,400,2023-04-12,2023-04-21,Entregue
+Thomas Cooper,,300,350,2023-05-01,,Em Producao
+Tammy Lin,,200,300,2023-04-16,2023-05-16,Feito
+Patricia Davis,,150,250,2023-05-03,,Em Producao
+Krystal Martinez,,200,250,2023-03-18,2023-05-02,Entregue
+Tyler Macias,,200,300,2023-04-17,2023-04-18,Entregue
+Christine Lynch,,150,200,2023-05-04,2023-05-20,Entregue
+Jacob Porter,,200,250,2023-04-24,2023-05-16,Feito
+Mrs. Margaret Norman,,100,150,2023-04-28,2023-04-29,Entregue
+Nicholas Harris,,250,300,2023-03-28,2023-04-26,Entregue
+Daniel Cruz,,200,300,2023-03-14,2023-03-26,Entregue
+John Hunt,,250,350,2023-03-28,2023-05-10,Feito
+Kimberly Mosley,,250,300,2023-05-29,2023-06-06,Feito
+Elizabeth Sanders,,200,300,2023-05-17,2023-05-20,Feito
+Johnny Davis,,250,300,2023-03-27,,Em Producao
+Kristen Berry,,300,350,2023-04-12,2023-05-06,Feito
+Kelli Nunez,,300,400,2023-03-22,2023-05-04,Feito
+Kimberly Griffin,,250,300,2023-03-14,2023-05-25,Feito
+Matthew Ferrell III,,200,250,2023-04-30,2023-05-15,Feito
+Lindsay Griffith,,300,400,2023-03-22,,Em Producao
+Stacey Fuller,,200,300,2023-04-22,2023-05-21,Entregue
+John Dean,,250,300,2023-04-19,2023-04-22,Entregue
+Mr. David Griffith,,200,300,2023-03-18,2023-06-01,Feito
+Austin Wilcox,,300,350,2023-05-17,2023-06-03,Feito
+Melinda Howell,,250,300,2023-05-03,2023-05-16,Entregue
+Chad Peters,,200,250,2023-05-30,2023-06-06,Entregue
+Thomas Luna,,200,250,2023-04-03,2023-06-02,Entregue
+Joshua Smith,,200,300,2023-04-21,2023-05-23,Entregue
+Paul Perry,,300,350,2023-04-10,,Em Producao
+James Mcdonald,,100,150,2023-05-16,2023-06-04,Entregue
+Hannah Green,,200,250,2023-04-21,,Em Producao
+Jeanne Morrison,,300,400,2023-04-08,2023-04-13,Feito
+Alicia Lin,,300,400,2023-05-11,2023-05-18,Feito
+Gabriel Wise,,300,350,2023-04-17,2023-04-22,Feito
+Bobby Jones,,250,300,2023-04-19,,Em Producao
+Seth Jones,,100,150,2023-05-05,2023-06-01,Entregue
+Brandon Moran,,300,350,2023-05-09,,Em Producao
+Michael Bell,,150,250,2023-05-09,2023-05-14,Feito
+Kelly Gallegos,,200,250,2023-03-25,2023-05-31,Feito
+Theresa Stewart,,100,200,2023-03-10,2023-04-23,Feito
+Kevin Woods,,200,300,2023-06-06,2023-06-06,Feito
+Kristina Rice,,250,350,2023-05-20,,Em Producao
+Christopher Arnold,,150,250,2023-04-18,2023-06-04,Feito
+Michael Juarez,,100,200,2023-04-20,2023-05-08,Entregue
+Wendy Barron,,250,300,2023-04-04,2023-05-02,Feito
+David Bruce,,100,200,2023-03-14,2023-04-04,Feito
+Jean Lynch,,100,150,2023-06-03,2023-06-06,Feito
+Cameron Robertson,,200,250,2023-05-30,2023-06-05,Feito
+Erik Figueroa,,150,250,2023-03-23,,Em Producao
+Lauren Arroyo,,150,250,2023-04-22,2023-05-17,Entregue
+Nathan Howard,,100,150,2023-06-03,2023-06-06,Feito
+Angela Gonzalez,,300,350,2023-05-12,,Em Producao
+William Hines,,100,200,2023-04-07,2023-05-16,Feito
+Audrey Coleman,,300,350,2023-05-03,2023-05-21,Feito
+William Gray,,100,200,2023-05-20,2023-06-05,Feito
+Billy Jordan,,100,200,2023-06-05,2023-06-05,Feito
+Catherine Ferguson,,100,150,2023-04-26,2023-05-25,Feito
+Hector Mcguire,,100,200,2023-04-12,2023-05-12,Feito
+Deborah Romero,,200,300,2023-04-29,,Em Producao
+John Bishop,,150,250,2023-03-09,,Em Producao
+Kelly Acevedo,,150,250,2023-03-25,2023-05-24,Entregue
+Richard Davis,,300,400,2023-06-04,2023-06-05,Entregue
+Sean Myers,,150,200,2023-05-10,2023-06-03,Entregue
+Parker Robbins,,100,200,2023-03-31,2023-05-27,Entregue
+Mark Reid,,100,150,2023-03-24,2023-06-02,Entregue
+Emily Mills,,250,300,2023-04-10,2023-04-20,Feito
+Charles Poole,,250,350,2023-04-06,2023-05-22,Feito
+Cody Hernandez,,200,300,2023-04-01,2023-04-03,Entregue
+Andrew Brown,,100,150,2023-04-11,,Em Producao
+Michael Mueller,,300,350,2023-03-24,2023-05-09,Feito
+Susan Brown,,300,400,2023-03-10,2023-04-25,Feito
+Travis Page,,150,200,2023-05-23,2023-06-04,Entregue
+Brianna Christian,,150,200,2023-05-03,,Em Producao
+Jessica Jones,,200,300,2023-03-27,2023-04-06,Feito
+Drew Hancock,,250,350,2023-05-15,2023-05-23,Entregue
+Dr. John Baird,,300,400,2023-04-02,2023-04-25,Feito
+Laura Miller,,100,150,2023-05-11,2023-05-16,Entregue
+Melanie Ramos,,100,150,2023-05-01,2023-05-07,Feito
+Catherine Matthews,,150,250,2023-05-25,,Em Producao
+Miss Donna Mcknight,,300,400,2023-06-06,2023-06-06,Feito
+Cheryl Turner,,150,250,2023-04-11,2023-05-19,Entregue
+Jermaine Martinez,,250,300,2023-03-18,,Em Producao
+Laura Hooper,,150,250,2023-06-02,2023-06-03,Entregue
+Virginia Patterson,,250,350,2023-04-25,,Em Producao
+Thomas Martin,,150,250,2023-04-17,2023-05-25,Entregue
+Sandra Brown,,250,350,2023-05-05,2023-06-06,Feito
+Alexander Collins,,200,300,2023-05-06,2023-05-18,Entregue
+Erica Roberts,,300,400,2023-05-18,2023-05-22,Feito
+Sarah Johnson,,150,250,2023-04-07,2023-05-09,Feito
+Ashley Stanley,,200,300,2023-05-05,2023-05-06,Entregue
+Daniel Burton,,100,150,2023-04-28,2023-05-29,Entregue
+Brandon Russell,,250,300,2023-03-27,,Em Producao
+Janet Fitzgerald,,100,150,2023-03-31,2023-04-10,Feito
+Ronnie Ward,,150,200,2023-05-07,2023-05-18,Feito
+Lindsey Collins,,300,350,2023-05-03,,Em Producao
+Jason Obrien,,150,250,2023-04-11,2023-05-27,Feito
+Daniel Smith,,200,250,2023-05-24,2023-05-31,Entregue
+Brian Miller,,300,350,2023-05-10,,Em Producao
+Alan Walton,,250,300,2023-05-31,,Em Producao
+Jordan Hudson,,200,250,2023-03-15,,Em Producao
+Pamela Haynes,,300,350,2023-04-24,2023-06-01,Entregue
+Alicia Price,,150,200,2023-05-12,2023-06-04,Entregue
+Christopher Castaneda,,100,200,2023-06-01,2023-06-02,Entregue
+Sheri Freeman,,100,200,2023-05-18,2023-05-30,Feito
+Brittany Williams,,150,250,2023-05-06,2023-05-29,Feito
+Adam Rich,,250,300,2023-03-22,,Em Producao
+Jennifer Jenkins,,150,250,2023-05-18,2023-05-21,Entregue
+Amber Murphy,,300,350,2023-05-17,2023-06-02,Entregue
+Christopher Gonzalez,,250,350,2023-03-20,,Em Producao
+Ronald Williams,,150,200,2023-05-06,,Em Producao
+Tracey Browning,,100,200,2023-05-14,2023-06-05,Entregue
+David Hancock,,250,300,2023-03-18,2023-04-11,Entregue
+Vincent Abbott,,100,150,2023-04-16,2023-05-03,Feito
+William Suarez,,300,400,2023-05-05,,Em Producao
+Gabriel Schwartz,,100,200,2023-05-28,,Em Producao
+Vanessa Johnson,,100,150,2023-03-27,2023-05-21,Entregue
+Tanner Brooks,,150,200,2023-04-16,2023-05-01,Entregue
+Dan Bender,,300,350,2023-04-20,2023-05-01,Feito
+Maria Bowman,,100,150,2023-04-29,2023-05-07,Feito
+Vincent Harris,,250,300,2023-03-18,2023-05-13,Feito
+Sharon Smith,,200,300,2023-04-18,,Em Producao
+Aaron Myers,,300,350,2023-05-22,2023-05-23,Feito
+Shawn Torres,,200,300,2023-05-05,,Em Producao
+Kathryn Galloway,,200,250,2023-04-25,2023-05-11,Entregue
+April Horne,,100,150,2023-03-23,,Em Producao
+Sydney Johnson,,100,200,2023-05-17,2023-05-26,Feito
+Connor Kemp,,250,300,2023-04-02,2023-04-22,Entregue
+Andrea Mccarthy,,300,400,2023-03-19,2023-05-10,Feito
+Joshua Gomez,,300,350,2023-04-21,2023-06-03,Feito
+Beth Arnold,,150,200,2023-04-09,2023-04-22,Entregue
+Maria Davis,,200,250,2023-03-10,2023-04-30,Feito
+James Meyers,,150,200,2023-05-28,2023-05-28,Feito
+Beth Dillon,,200,250,2023-05-20,2023-06-03,Entregue
+Patricia Terry,,300,400,2023-05-01,,Em Producao
+Mrs. Laurie Kirby MD,,100,200,2023-04-29,,Em Producao
+Dennis Mcpherson,,200,250,2023-04-18,2023-05-27,Entregue
+Jonathan Sellers,,150,200,2023-05-11,,Em Producao
+Sharon Patterson,,250,300,2023-04-02,,Em Producao
+Destiny Morrow,,150,200,2023-05-27,,Em Producao
+Makayla Mays,,100,200,2023-05-16,2023-06-03,Entregue
+Jessica Hopkins,,150,250,2023-04-13,,Em Producao
+David Ortiz,,100,150,2023-03-23,2023-04-17,Entregue
+Elizabeth Diaz,,150,200,2023-05-29,2023-06-06,Entregue
+Cynthia Hodge,,250,300,2023-04-02,,Em Producao
+Michael Rodriguez,,300,400,2023-04-02,2023-04-14,Entregue
+John Ramirez,,200,300,2023-03-24,2023-05-12,Entregue
+Randall Martinez,,250,350,2023-03-20,2023-05-27,Entregue
+Kevin Anderson,,250,350,2023-05-04,2023-05-14,Entregue
+Brian Shannon,,200,250,2023-04-03,2023-05-19,Feito
+Tyler Santana MD,,300,350,2023-05-15,2023-05-21,Entregue
+Thomas Jennings,,300,400,2023-03-20,2023-04-02,Feito
+Melissa Romero,,100,200,2023-05-22,,Em Producao
+Paul Smith,,300,400,2023-03-10,2023-05-08,Feito
+Timothy Booth,,100,200,2023-04-22,2023-05-03,Entregue
+Nina Rivera,,100,200,2023-05-16,2023-05-30,Feito
+Michael Potter,,250,350,2023-05-07,,Em Producao
+David Hicks,,100,200,2023-04-05,,Em Producao
+Kimberly Mckee,,150,200,2023-03-23,,Em Producao
+Christopher Williams,,300,350,2023-04-04,2023-06-04,Entregue
+Shannon Mccall,,150,200,2023-04-14,2023-05-13,Feito
+Debra Hoover,,100,200,2023-04-09,2023-05-28,Feito
+Daniel Henderson,,200,250,2023-04-03,2023-05-31,Feito
+Cindy Hernandez,,100,200,2023-03-24,2023-04-27,Feito
+Timothy Stone,,300,350,2023-04-16,,Em Producao
+Carrie Benjamin,,250,300,2023-05-14,,Em Producao
+William Cameron,,150,200,2023-05-30,2023-06-03,Feito
+Connie Randolph,,150,200,2023-05-21,2023-05-29,Entregue
+Carolyn Hernandez,,150,250,2023-05-31,,Em Producao
+April Bryant,,250,300,2023-05-26,2023-05-27,Feito
+Rhonda Charles,,100,150,2023-03-27,2023-05-08,Feito
+Edward Stanton,,100,200,2023-05-25,2023-06-01,Entregue
+Roy Jordan,,200,300,2023-05-18,,Em Producao
+Jeremy Davis,,250,350,2023-05-19,2023-05-26,Entregue
+Nancy Bright,,100,200,2023-05-05,,Em Producao
+Laura Jimenez,,300,400,2023-05-30,2023-05-30,Feito
+Rodney Taylor,,300,350,2023-04-07,2023-05-25,Feito
+Charles Young,,100,150,2023-06-06,2023-06-06,Feito
+Thomas Peterson,,200,250,2023-05-24,2023-06-01,Feito
+Christine Rodriguez,,300,400,2023-05-18,2023-05-18,Feito
+Mary Hamilton,,200,250,2023-03-30,2023-05-20,Entregue
+Lisa Mcconnell,,100,200,2023-03-25,2023-05-27,Entregue
+Thomas Mccarthy,,300,350,2023-05-29,2023-05-29,Feito
+Stanley Gutierrez,,200,250,2023-05-27,2023-05-31,Entregue
+Nicholas Johnson,,150,200,2023-03-15,2023-05-29,Feito
+Brittney Harris,,100,150,2023-04-08,,Em Producao
+Jenna Williams,,300,350,2023-03-24,2023-04-20,Entregue
+Johnathan Ray,,300,400,2023-04-04,,Em Producao
+Paul Orozco,,200,300,2023-04-18,,Em Producao
+Christopher Johnson,,100,150,2023-03-27,2023-04-03,Feito
+Kelli Smith,,150,250,2023-05-17,2023-05-26,Feito
+Derrick Brewer,,250,350,2023-03-19,,Em Producao
+Kirsten Rodriguez,,100,200,2023-04-29,2023-05-04,Feito
+Gina Miller,,300,350,2023-05-24,2023-06-05,Feito
+Ruth Jones MD,,250,300,2023-04-21,2023-05-15,Feito
+Jessica Sanders,,150,200,2023-04-24,,Em Producao
+Nicole Smith,,200,250,2023-04-28,2023-05-28,Feito
+Robert Gill,,200,300,2023-05-29,,Em Producao
+Miss Jennifer Salinas,,100,200,2023-03-30,2023-04-14,Entregue
+David Curtis,,300,400,2023-04-11,2023-05-05,Feito
+Amanda Marshall,,100,150,2023-04-03,2023-05-08,Entregue
+Jennifer Barnett,,300,400,2023-04-05,,Em Producao
+Donna Lynch,,250,350,2023-05-12,2023-05-13,Entregue
+Joshua Anderson,,300,350,2023-03-12,2023-05-24,Entregue
+Nicholas Ferguson,,150,250,2023-03-15,,Em Producao
+Brent Martinez,,250,350,2023-05-21,,Em Producao
+John Williams,,300,350,2023-03-26,2023-05-25,Feito
+Katherine Mcmillan,,300,400,2023-04-12,,Em Producao
+Rebecca Mcdaniel,,300,350,2023-04-25,,Em Producao
+George Ruiz,,250,350,2023-04-14,2023-04-14,Entregue
+Mrs. Rhonda Tucker,,300,350,2023-04-01,2023-04-26,Entregue
+James English,,200,250,2023-04-03,2023-05-11,Feito
+Christopher Walsh,,250,300,2023-04-21,2023-05-01,Entregue
+William Stanley,,150,250,2023-05-29,2023-06-04,Feito
+Randall Castillo,,200,300,2023-05-20,2023-05-23,Feito
+Lori Martinez,,200,250,2023-03-10,2023-03-23,Entregue
+Ashley Sandoval,,200,250,2023-04-04,2023-05-30,Entregue
+Kevin Rasmussen,,200,300,2023-04-03,2023-05-18,Feito
+Rebecca Parker,,250,300,2023-04-22,2023-04-28,Entregue
+Timothy Roberts,,250,300,2023-06-04,,Em Producao
+Cynthia Martin,,250,350,2023-05-09,2023-06-05,Feito
+Amy Lawrence,,100,150,2023-06-02,2023-06-04,Entregue
+Pamela Williams,,200,250,2023-05-21,2023-05-30,Feito
+Michael Smith,,100,150,2023-04-08,,Em Producao
+Sarah Edwards,,150,200,2023-03-11,2023-05-10,Feito
+Dale Stewart,,150,250,2023-05-15,,Em Producao
+Kimberly Webster,,250,350,2023-05-13,2023-05-28,Feito
+Todd Benson,,300,400,2023-04-04,2023-04-17,Feito
+Andrew Hudson,,100,200,2023-04-04,2023-04-29,Feito
+Virginia Moore,,300,400,2023-05-02,2023-05-05,Entregue
+Johnny Wilkinson,,100,200,2023-04-09,2023-05-25,Feito
+Michael Dudley,,200,250,2023-05-19,2023-05-27,Entregue
+Rebekah Reeves,,200,300,2023-05-05,2023-05-05,Entregue
+Amanda Contreras,,300,400,2023-03-11,2023-04-11,Entregue
+Jason Woods,,100,150,2023-06-06,,Em Producao
+Patricia Wright,,200,250,2023-05-14,2023-05-16,Feito
+Samantha Hernandez,,150,200,2023-05-20,2023-05-31,Entregue
+Whitney Moore,,300,400,2023-05-24,2023-06-01,Entregue
+Jennifer Sexton,,250,350,2023-05-05,2023-05-25,Feito
+Jeremiah Carr,,100,150,2023-04-27,,Em Producao
+Samuel Leonard,,300,350,2023-04-25,2023-05-04,Entregue
+Donald Cochran,,300,400,2023-03-10,2023-03-13,Feito
+Michelle Scott,,200,300,2023-06-06,,Em Producao
+James Clark,,250,300,2023-03-13,2023-04-28,Entregue
+Sara Cruz,,150,250,2023-04-02,2023-05-24,Feito
+Anthony Daniels,,100,150,2023-03-16,2023-05-12,Entregue
+Jason Alvarez,,100,200,2023-05-24,2023-05-25,Entregue
+Jon Shepherd,,100,150,2023-04-29,2023-05-09,Entregue
+Emma Moore,,200,300,2023-04-16,2023-05-04,Entregue
+Jason Stuart,,200,300,2023-05-21,2023-05-28,Entregue
+Steven Stewart,,100,150,2023-03-19,2023-05-17,Feito
+Rodney Larson,,150,200,2023-03-22,,Em Producao
+Felicia Dixon,,100,200,2023-04-15,2023-04-18,Entregue
+James Warren,,150,250,2023-04-19,2023-05-09,Feito
+Michelle Lane,,150,200,2023-04-10,2023-05-19,Entregue
+Adam Shannon,,250,350,2023-03-23,2023-03-23,Feito
+Joseph Ramirez,,200,300,2023-05-18,,Em Producao
+Emma Rogers,,150,250,2023-06-01,2023-06-02,Entregue
+Christopher Brooks,,250,300,2023-05-09,2023-06-04,Entregue
+Katie Green,,250,350,2023-04-05,,Em Producao
+Jean Roberts,,100,200,2023-04-01,2023-04-27,Entregue
+Mark Young,,200,250,2023-03-11,2023-04-14,Entregue
+Jesse Lucas III,,100,150,2023-03-14,2023-05-21,Feito
+Sierra Daniel,,250,300,2023-04-16,2023-06-06,Entregue
+Michelle Savage,,200,250,2023-05-03,,Em Producao
+Darlene Long,,200,250,2023-04-23,,Em Producao
+Hannah Richardson,,150,200,2023-04-01,2023-05-06,Entregue
+Anthony Singh,,200,300,2023-04-10,2023-04-30,Feito
+Tyler Garcia,,250,300,2023-04-26,2023-05-07,Entregue
+Megan Rodriguez,,150,200,2023-03-17,2023-05-14,Feito
+Briana Davis,,150,200,2023-03-17,2023-03-27,Feito
+Tiffany Lopez,,200,300,2023-04-08,2023-06-06,Feito
+Max Allen,,300,400,2023-05-16,2023-05-31,Feito
+Toni Rhodes,,100,150,2023-04-17,,Em Producao
+Felicia Flores,,150,250,2023-03-27,2023-06-03,Entregue
+Danielle Duncan,,150,200,2023-03-26,2023-05-30,Entregue
+Paul Valenzuela,,300,350,2023-03-13,2023-04-10,Feito
+Julie Peterson,,200,250,2023-05-22,2023-06-05,Feito
+Eddie Walker,,300,400,2023-05-03,,Em Producao
+Renee Marshall,,250,350,2023-06-01,2023-06-03,Entregue
+James Wu,,250,350,2023-05-19,2023-05-27,Entregue
+Scott Norton,,100,200,2023-05-20,2023-06-02,Entregue
+Nicholas Porter,,200,300,2023-05-18,2023-06-02,Entregue
+Katherine Bell,,150,200,2023-04-26,,Em Producao
+Tammy Henry,,300,400,2023-05-28,2023-06-01,Entregue
+Brian Donaldson,,300,350,2023-06-01,,Em Producao
+James Williams,,300,350,2023-04-20,2023-05-05,Entregue
+Brianna Gonzalez,,150,200,2023-05-01,2023-05-12,Feito
+Monica Woods,,100,200,2023-06-03,2023-06-04,Feito
+Francisco Hayes,,300,400,2023-06-01,2023-06-03,Entregue
+Angel Camacho,,100,200,2023-04-02,,Em Producao
+Nathan Arroyo,,300,400,2023-04-18,2023-04-22,Feito
+Timothy Green,,100,200,2023-06-02,2023-06-02,Entregue
+Dennis Vargas,,300,400,2023-04-07,2023-05-07,Feito
+Corey Stone,,250,350,2023-03-26,2023-03-30,Feito
+Casey Mercado,,100,150,2023-04-10,2023-05-16,Entregue
+Anne Anthony,,150,200,2023-05-10,2023-05-11,Entregue
+Sherry Ball,,100,200,2023-05-05,2023-05-09,Entregue
+Joseph Gardner,,100,200,2023-06-03,2023-06-04,Entregue
+Lynn Robinson,,100,150,2023-04-24,2023-04-24,Entregue
+Joseph Williamson,,250,350,2023-04-27,,Em Producao
+Wayne Gomez,,150,200,2023-03-20,2023-05-13,Entregue
+Danielle Harris,,150,250,2023-03-17,,Em Producao
+Matthew Townsend,,250,350,2023-04-30,,Em Producao
+Bradley Boone,,150,200,2023-04-25,2023-04-26,Feito
+Tiffany Robinson,,300,400,2023-04-02,2023-04-19,Entregue
+Willie Smith,,200,250,2023-04-04,2023-06-06,Entregue
+Christopher Miller,,200,250,2023-03-10,2023-05-21,Feito
+Holly Andrews,,150,250,2023-03-18,,Em Producao
+Sophia Madden,,150,200,2023-03-12,2023-04-04,Feito
+Cheryl Schmidt,,100,150,2023-03-10,2023-05-17,Entregue
+Joseph Adams,,250,300,2023-05-05,,Em Producao
+Alex Malone,,150,200,2023-04-06,,Em Producao
+Daniel Wells,,200,300,2023-04-20,2023-05-14,Feito
+Holly Griffith,,100,150,2023-04-28,2023-05-10,Entregue
+Russell Bennett,,300,400,2023-03-09,2023-04-10,Entregue
+Cynthia Alvarado,,300,350,2023-03-23,2023-05-07,Entregue
+Suzanne Watson,,150,250,2023-04-01,2023-04-28,Feito
+Walter Compton,,250,300,2023-05-07,2023-05-30,Feito
+Brandon Weber,,100,200,2023-03-10,,Em Producao
+Anthony Nguyen,,100,200,2023-05-06,2023-05-07,Feito
+Gilbert Miller,,100,150,2023-03-28,2023-05-10,Feito
+Kevin Williams,,150,200,2023-06-03,2023-06-04,Entregue
+Tyler Logan,,100,150,2023-04-27,2023-05-12,Entregue
+Rhonda Colon,,100,150,2023-03-27,2023-05-11,Feito
+Cynthia Harvey,,300,400,2023-05-05,2023-05-26,Entregue
+Heather Mills,,100,200,2023-03-11,,Em Producao
+April Valentine,,300,350,2023-04-11,2023-04-28,Entregue
+Dylan Reynolds,,250,300,2023-05-22,2023-05-23,Feito
+Mr. Jamie Ware,,300,350,2023-03-13,2023-04-23,Feito
+Meghan Moore,,200,250,2023-06-04,2023-06-06,Entregue
+Deborah Garza,,300,400,2023-06-04,2023-06-06,Feito
+Nicole Ford,,300,400,2023-03-22,2023-06-05,Entregue
+Brian Sanchez,,250,300,2023-06-02,,Em Producao
+Connie Goodman,,250,350,2023-03-20,2023-04-18,Feito
+Cathy Wolf,,200,250,2023-05-23,2023-06-03,Feito
+Candace Sullivan,,100,200,2023-05-11,2023-05-17,Entregue
+Kyle Hamilton,,200,250,2023-03-10,2023-05-07,Entregue
+Laura Wright MD,,300,350,2023-05-17,2023-06-03,Feito
+Adam Elliott,,300,350,2023-05-07,2023-05-30,Entregue
+Christopher Valencia,,200,250,2023-05-27,2023-05-28,Feito
+Amy Parker,,250,350,2023-03-31,2023-05-04,Entregue
+Teresa Kennedy,,100,150,2023-04-26,2023-05-19,Feito
+Deborah Mack,,250,350,2023-03-20,2023-05-22,Feito
+Calvin Allen,,100,200,2023-03-11,2023-04-29,Feito
+Randy Taylor,,100,150,2023-04-14,2023-06-01,Entregue
+Tammy Perez,,200,250,2023-06-06,2023-06-06,Entregue
+Matthew Dean,,300,400,2023-05-05,2023-06-02,Feito
+Natalie Hopkins,,100,200,2023-04-16,2023-05-21,Entregue
+Joshua Dean,,300,350,2023-04-16,2023-04-20,Entregue
+Michael Davila,,200,250,2023-05-28,,Em Producao
+Katherine Bauer,,300,350,2023-03-09,2023-05-10,Feito
+Dawn Flowers,,100,150,2023-03-11,,Em Producao
+Laura Wood,,200,250,2023-04-22,2023-05-31,Entregue
+Kristin Lara,,250,300,2023-04-23,2023-05-01,Entregue
+Pam Richards,,300,350,2023-04-27,2023-05-02,Feito
+Faith Byrd,,200,300,2023-04-13,,Em Producao
+Wanda Peck,,250,300,2023-04-02,2023-05-07,Feito
+Michelle Sanders,,150,250,2023-05-02,,Em Producao
+Stephanie Brown,,200,300,2023-03-16,2023-06-06,Feito
+Michael Harrison,,150,200,2023-05-19,,Em Producao
+Michael Frederick,,300,350,2023-03-19,2023-04-07,Feito
+Larry Reynolds,,150,250,2023-06-02,2023-06-05,Entregue
+Mike Lane,,250,300,2023-05-31,,Em Producao
+Elizabeth Reed,,150,250,2023-04-05,,Em Producao
+Robert Guerrero,,300,400,2023-03-11,,Em Producao
+Nicholas Farmer,,300,350,2023-04-13,2023-05-28,Entregue
+Michael Hensley,,150,200,2023-05-22,2023-05-29,Feito
+Mr. Zachary Ramirez,,250,350,2023-04-05,2023-05-20,Feito
+William Rios,,100,150,2023-04-07,,Em Producao
+Jesse Nash DDS,,200,250,2023-03-17,2023-05-08,Feito
+Erik Miles,,250,300,2023-05-07,2023-05-12,Entregue
+Eric Ruiz,,200,250,2023-03-24,2023-04-15,Feito
+Lisa Harris,,150,250,2023-05-04,2023-05-09,Entregue
+David Norton,,300,350,2023-04-15,2023-05-20,Feito
+Tamara Carroll,,150,200,2023-03-13,2023-04-02,Entregue
+Jesse Gordon,,150,200,2023-04-19,2023-05-26,Entregue
+Jennifer Fuller,,300,400,2023-03-11,2023-05-22,Feito
+Jonathan Pittman,,200,250,2023-05-12,,Em Producao
+Diane Dillon,,300,350,2023-03-20,2023-04-09,Feito
+Eddie Russo,,200,300,2023-04-05,,Em Producao
+Tara Fox,,150,200,2023-03-11,2023-06-03,Entregue
+Michael Thomas,,300,350,2023-04-17,2023-05-09,Feito
+Robin Graham,,100,200,2023-03-29,2023-06-02,Entregue
+Timothy Ruiz,,100,150,2023-03-10,,Em Producao
+Austin Park,,200,250,2023-04-04,2023-04-17,Entregue
+Sherry Smith,,200,250,2023-05-22,2023-05-29,Entregue
+Lauren Hudson,,250,300,2023-06-04,2023-06-05,Entregue
+April Blair,,300,350,2023-05-11,2023-05-31,Feito
+Phillip Robinson,,250,300,2023-05-11,2023-05-24,Feito
+Jason Cox,,200,300,2023-04-21,,Em Producao
+John Jones,,200,300,2023-03-26,2023-05-14,Feito
+Brandon Hines,,150,200,2023-03-16,,Em Producao
+Jacob Adams,,100,200,2023-04-11,,Em Producao
+Steven Graham,,200,250,2023-05-22,2023-06-03,Feito
+Danielle Barron,,200,300,2023-05-30,2023-06-02,Entregue
+Dana Price,,250,350,2023-04-11,2023-04-30,Feito
+Gregory Strong,,150,250,2023-04-11,2023-04-22,Entregue
+Deborah Perez,,200,250,2023-04-07,2023-05-29,Feito
+Laura Johnson,,150,250,2023-04-26,2023-05-01,Entregue
+James Richards,,250,300,2023-04-05,2023-04-15,Entregue
+Stephen Medina,,200,250,2023-04-11,,Em Producao
+Martin Cole,,200,300,2023-03-18,,Em Producao
+John Green,,300,350,2023-05-30,2023-06-04,Entregue
+David Moore,,300,400,2023-03-26,2023-05-16,Feito
+Rebekah Leon,,300,400,2023-05-09,,Em Producao
+Donna Watson,,200,250,2023-03-19,2023-04-25,Entregue
+Cynthia Wallace,,150,200,2023-04-28,2023-05-06,Entregue
+Jessica Mitchell,,250,300,2023-03-27,2023-05-24,Feito
+Sergio Horton,,300,350,2023-04-19,2023-05-17,Feito
+Larry Brady,,300,350,2023-03-21,2023-04-04,Feito
+Mark Scott,,250,350,2023-03-13,2023-03-21,Entregue
+Patrick Lopez,,250,350,2023-04-16,,Em Producao
+Diane Smith,,300,400,2023-05-29,,Em Producao
+Allison Gutierrez,,100,200,2023-03-26,,Em Producao
+Taylor Nash,,150,250,2023-05-29,2023-06-06,Feito
+Deborah Weaver,,100,150,2023-05-04,2023-06-03,Feito
+Ashley Olson,,200,250,2023-04-12,2023-05-21,Entregue
+Jared Callahan,,100,150,2023-05-21,,Em Producao
+Wayne Carr,,250,300,2023-04-26,,Em Producao
+Jennifer Pearson,,300,400,2023-04-08,2023-06-02,Feito
+Robin Wright,,300,400,2023-04-02,2023-05-04,Feito
+Mary Moore,,100,150,2023-06-03,2023-06-04,Entregue
+Miranda Zavala,,300,350,2023-04-26,2023-06-02,Feito
+Sean Lopez,,200,300,2023-05-21,,Em Producao
+Katie Griffin,,200,250,2023-05-22,,Em Producao
+Katherine Stark,,200,300,2023-03-22,2023-05-07,Feito
+Michelle Clark,,100,200,2023-05-11,,Em Producao
+Kyle Martin,,150,200,2023-04-24,2023-05-18,Feito
+Noah Hayes,,100,200,2023-05-05,2023-05-19,Entregue
+Kelly White,,200,250,2023-05-13,,Em Producao
+Michael Vega,,150,250,2023-06-04,,Em Producao
+Brandon Randolph,,150,200,2023-06-01,2023-06-01,Feito
+Jeremy Bond,,100,150,2023-04-01,2023-05-17,Feito
+James Combs,,150,250,2023-04-06,2023-05-21,Entregue
+Darren Casey,,100,200,2023-05-06,2023-05-18,Entregue
+Richard Crawford,,250,300,2023-04-01,,Em Producao
+Tiffany Woods,,200,300,2023-03-14,,Em Producao
+Brian Thomas,,200,300,2023-04-24,2023-04-28,Entregue
+Jeffrey Thompson,,100,150,2023-03-31,2023-04-07,Entregue
+Joseph Taylor,,300,350,2023-04-06,,Em Producao
+Jennifer Young,,150,200,2023-04-25,,Em Producao
+Jordan Herrera,,300,350,2023-04-12,2023-05-18,Feito
+Heather Glover,,200,300,2023-05-20,2023-05-21,Entregue
+Dustin Patel,,300,350,2023-04-12,2023-05-19,Entregue
+Ricky Clark,,100,150,2023-03-20,2023-04-18,Entregue
+Jessica Watts,,250,350,2023-03-26,2023-05-13,Feito
+Susan Williams,,100,200,2023-03-20,2023-04-09,Entregue
+Lisa Villanueva,,250,300,2023-04-30,2023-05-24,Entregue
+Charlene Henry,,250,300,2023-03-11,2023-05-01,Feito
+Daniel Mendoza,,200,300,2023-04-15,2023-06-01,Feito
+Dr. Jenny Herrera,,200,250,2023-05-01,2023-05-15,Feito
+Kelly Crawford,,200,300,2023-04-18,2023-05-07,Feito
+Joyce Pearson,,200,250,2023-05-06,2023-05-08,Feito
+Stacey Allison,,300,400,2023-04-26,2023-05-13,Entregue
+Sean Rice,,150,200,2023-06-03,2023-06-05,Entregue
+Bob Sharp,,300,400,2023-05-29,,Em Producao
+Jennifer Patrick,,200,300,2023-04-05,2023-04-18,Feito
+Julie Arroyo,,250,350,2023-05-08,,Em Producao
+Anna King,,100,150,2023-05-18,,Em Producao
+Tammy Robinson,,100,200,2023-05-05,,Em Producao
+Dennis Hanson,,200,300,2023-03-23,2023-04-20,Entregue
+Roberto Salinas,,100,150,2023-04-27,2023-04-28,Feito
+Katie Stewart,,250,350,2023-04-05,2023-05-30,Feito
+Michael Miller,,300,400,2023-03-29,2023-04-01,Feito
+Bradley Fernandez,,250,300,2023-05-01,,Em Producao
+Jose Quinn,,100,150,2023-03-20,2023-05-02,Entregue
+Regina Fry,,250,350,2023-04-30,2023-06-03,Entregue
+Joyce Sanders,,100,150,2023-03-16,2023-05-18,Entregue
+Kelly Bailey,,100,200,2023-05-03,2023-06-03,Entregue
+Thomas Wood,,250,350,2023-04-20,2023-05-09,Entregue
+William Lawson,,300,350,2023-04-30,,Em Producao
+Heather Green,,300,400,2023-04-02,2023-05-25,Feito
+Vickie Garcia,,100,200,2023-04-08,,Em Producao
+Michael Dunn,,300,350,2023-05-26,2023-05-30,Feito
+Jamie Taylor,,300,400,2023-04-11,2023-04-26,Entregue
+Wendy Garcia,,100,150,2023-05-16,2023-06-02,Entregue
+Kerri Jacobson,,150,250,2023-05-05,2023-05-22,Entregue
+Rodney Franklin,,150,200,2023-04-11,2023-05-10,Entregue
+Catherine Brown,,150,250,2023-06-01,,Em Producao
+Anthony Tyler,,300,400,2023-04-10,2023-05-05,Feito
+Michele Johnson,,200,250,2023-03-26,2023-04-20,Feito
+Emily Evans,,150,250,2023-04-12,2023-04-13,Feito
+Cassandra Johnson,,250,350,2023-05-11,,Em Producao
+Angela Dixon,,250,300,2023-03-28,2023-04-18,Feito
+Jason Oconnor,,150,200,2023-05-21,2023-06-05,Feito
+Ryan Cox,,250,300,2023-03-22,,Em Producao
+Jeff Bishop,,150,250,2023-05-25,,Em Producao
+Edward Jenkins,,150,250,2023-03-26,,Em Producao
+Christopher Black,,100,200,2023-03-31,2023-04-03,Feito
+Carrie Bennett,,150,200,2023-05-28,2023-05-31,Entregue
+Michael Berry,,300,400,2023-03-11,2023-04-15,Feito
+Brian Young,,150,250,2023-03-31,2023-05-02,Entregue
+Patrick Flynn Jr.,,200,250,2023-03-09,,Em Producao
+Thomas Wall,,250,300,2023-04-25,,Em Producao
+Todd Smith,,100,150,2023-05-30,2023-06-06,Entregue
+Timothy Austin,,100,150,2023-03-27,,Em Producao
+Jonathan Wilcox,,200,300,2023-03-24,,Em Producao
+James Reeves,,100,200,2023-05-03,,Em Producao
+Matthew Henson,,150,250,2023-06-05,,Em Producao
+James Whitney,,200,250,2023-04-18,,Em Producao
+Dana Goodwin,,250,300,2023-04-29,,Em Producao
+Nicole James,,150,200,2023-04-11,,Em Producao
+Susan Mcgee,,200,250,2023-03-26,2023-05-12,Feito
+Joshua Russo,,200,250,2023-04-06,2023-05-15,Entregue
+Caroline Fields,,100,150,2023-04-02,2023-04-29,Feito
+Daniel Watson,,250,350,2023-04-07,2023-05-08,Feito
+Ashley Smith,,250,300,2023-05-10,2023-05-21,Entregue
+Susan Rush,,200,250,2023-04-15,2023-05-22,Entregue
+Barbara Walker,,300,400,2023-03-20,2023-05-26,Feito
+Kelly Blevins,,250,350,2023-04-03,2023-04-14,Feito
+Frances Mccormick,,250,350,2023-05-20,,Em Producao
+Melissa Brown,,300,350,2023-03-14,2023-04-17,Entregue
+John Cross,,100,150,2023-05-18,2023-06-01,Entregue
+Jesse Chase,,200,300,2023-04-06,2023-04-14,Feito
+Jason Brown,,300,400,2023-04-17,2023-05-22,Feito
+Cody Smith,,100,200,2023-05-28,2023-05-28,Entregue
+Stephanie Washington,,150,250,2023-04-17,2023-05-22,Entregue
+Kelly Hughes,,100,150,2023-03-14,2023-05-08,Entregue
+Sara Freeman MD,,250,350,2023-05-25,2023-06-04,Feito
+Tyler Oliver,,250,350,2023-05-26,2023-05-31,Entregue
+Mark Barajas,,100,150,2023-06-06,2023-06-06,Feito
+Brandon Barnett Jr.,,250,350,2023-03-30,2023-05-14,Entregue
+Jennifer Payne,,100,150,2023-06-03,2023-06-05,Feito
+Megan Turner,,100,150,2023-05-05,2023-05-07,Feito
+Kimberly Rogers,,250,300,2023-05-23,,Em Producao
+Jesus Torres,,200,250,2023-04-12,,Em Producao
+Gabriel Salinas,,250,350,2023-03-11,,Em Producao
+Donald Beasley,,250,300,2023-06-03,,Em Producao
+Jon Jones,,100,200,2023-04-04,,Em Producao
+Jeffrey Carpenter,,300,350,2023-04-18,,Em Producao
+Robin Alvarez,,100,200,2023-05-02,2023-05-27,Feito
+Anne Ramsey,,150,200,2023-03-11,,Em Producao
+Victoria Castillo,,150,200,2023-04-02,,Em Producao
+Nancy Cochran,,250,350,2023-05-14,2023-05-26,Feito
+Dr. Victor Alvarez,,100,200,2023-03-30,,Em Producao
+Dawn May,,100,200,2023-05-12,2023-06-02,Entregue
+Kevin Newman,,200,300,2023-04-27,2023-05-24,Feito
+Virginia Bush,,100,150,2023-06-04,2023-06-05,Feito
+Gerald Howe,,200,250,2023-04-09,2023-04-29,Entregue
+Derrick Burns,,150,250,2023-04-30,2023-05-01,Feito
+Michelle Dean,,100,200,2023-03-28,2023-05-11,Entregue
+April White,,100,150,2023-03-09,2023-03-24,Feito
+Eileen Casey,,250,300,2023-03-22,2023-05-20,Entregue
+Danielle Reed,,150,250,2023-03-23,,Em Producao
+Shawn Nichols,,200,250,2023-03-17,,Em Producao
+Samantha Khan,,200,300,2023-03-13,2023-05-01,Feito
+Lisa Barr,,250,300,2023-03-25,2023-05-03,Entregue
+Brittany Kaufman,,250,300,2023-03-09,,Em Producao
+Stephanie Ramsey,,300,400,2023-03-09,,Em Producao
+Carrie Perez,,250,350,2023-03-17,2023-05-28,Entregue
+Eric Moon,,100,150,2023-05-31,,Em Producao
+Wendy Spears,,250,300,2023-05-16,2023-05-25,Feito
+Paul David,,250,300,2023-05-18,2023-06-04,Entregue
+Edward Murphy,,200,300,2023-04-13,,Em Producao
+Lindsey Simmons,,300,400,2023-06-01,,Em Producao
+John Buckley,,100,200,2023-04-04,2023-05-17,Entregue
+Gloria Smith,,100,150,2023-05-16,2023-05-28,Entregue
+Roberta Cantrell,,250,300,2023-04-30,,Em Producao
+Rachel Ford,,100,200,2023-05-13,2023-05-29,Entregue
+Rebecca Holland,,250,300,2023-04-06,2023-05-31,Feito
+Nathan Ortiz,,100,150,2023-05-20,,Em Producao
+Brittany Jones,,100,200,2023-04-01,,Em Producao
+Matthew Gray,,100,200,2023-03-14,2023-04-08,Feito
+Mrs. Rachel Mullen,,300,350,2023-05-07,2023-06-04,Entregue
+Willie Nguyen,,100,200,2023-04-03,2023-04-22,Entregue
+Michael Wilson,,300,350,2023-04-14,2023-04-26,Feito
+Allen Webster,,300,400,2023-04-18,2023-05-07,Entregue
+Teresa Woodard,,100,150,2023-05-20,2023-05-25,Feito
+Denise Sutton,,300,400,2023-04-29,2023-05-30,Feito
+Ryan Romero,,200,250,2023-06-03,2023-06-06,Feito
+Maria Smith,,100,150,2023-03-28,2023-05-16,Entregue
+Maria Chapman,,100,150,2023-04-08,2023-04-18,Entregue
+Lance Gray,,300,400,2023-04-10,2023-05-09,Entregue
+Lindsay Guzman,,250,300,2023-05-31,2023-06-05,Entregue
+April Villarreal,,250,350,2023-06-01,2023-06-04,Feito
+David Garcia,,100,150,2023-05-29,2023-05-30,Feito
+Kelly Fitzgerald,,200,300,2023-05-12,2023-05-15,Feito
+David Compton,,150,200,2023-04-24,2023-05-02,Feito
+Autumn Schmidt,,300,350,2023-04-03,2023-04-13,Entregue
+Randy Barry,,200,250,2023-04-21,2023-05-20,Feito
+Wesley Lewis,,300,400,2023-05-21,2023-05-25,Feito
+Dawn Green,,300,400,2023-05-28,2023-06-05,Feito
+Stephanie Alexander,,250,300,2023-05-16,2023-05-17,Entregue
+Denise Mathis,,300,400,2023-03-15,2023-04-25,Feito
+James Solis,,200,300,2023-03-23,2023-05-07,Feito
+Amanda Ortiz,,300,350,2023-05-22,2023-06-03,Feito
+Jesus Taylor,,200,300,2023-04-13,2023-06-02,Entregue
+William Crawford,,100,150,2023-04-03,2023-05-22,Feito
+Lisa Sullivan,,250,300,2023-03-25,,Em Producao
+Tommy Kemp,,300,400,2023-04-08,2023-04-24,Entregue
+Kevin Miller,,200,250,2023-04-25,2023-05-19,Feito
+Sharon White,,300,350,2023-05-19,2023-06-06,Feito
+Patricia Odom,,100,200,2023-03-13,,Em Producao
+Gabrielle Whitney,,200,250,2023-03-27,2023-04-08,Feito
+Brian Briggs,,200,250,2023-05-17,2023-05-25,Entregue
+Sean Morgan,,200,250,2023-05-02,,Em Producao
+William Blackwell,,100,150,2023-05-06,2023-05-16,Feito
+Jacqueline Carroll,,200,300,2023-04-15,2023-05-31,Feito
+Ryan Quinn,,100,150,2023-05-13,2023-05-13,Entregue
+Timothy Perry,,300,400,2023-03-26,2023-04-19,Entregue
+Michael Jones,,250,300,2023-06-03,,Em Producao
+Ryan Henry,,300,400,2023-04-26,,Em Producao
+James Joyce,,150,200,2023-03-23,2023-05-19,Feito
+Jason Ingram,,100,200,2023-03-19,,Em Producao
+Edward Walker,,250,300,2023-04-06,2023-04-14,Entregue
+Jamie Mejia,,100,150,2023-05-04,2023-05-08,Feito
+Ryan Moore,,100,200,2023-03-09,,Em Producao
+Michael Casey,,150,250,2023-03-15,2023-05-05,Entregue
+Zachary Randall,,100,200,2023-05-14,,Em Producao
+Brittany Koch,,100,150,2023-06-04,2023-06-06,Feito
+Joanna Bishop,,200,250,2023-04-20,2023-05-23,Entregue
+Kenneth James,,300,350,2023-05-03,,Em Producao
+Kevin Klein,,100,200,2023-05-16,,Em Producao
+Joshua Moore,,100,150,2023-04-08,,Em Producao
+Kenneth Rodriguez,,200,250,2023-04-16,2023-04-20,Entregue
+Gail Mitchell,,200,250,2023-05-08,2023-05-13,Feito
+Susan Myers,,200,300,2023-04-19,,Em Producao
+Bryan Kirby,,200,300,2023-04-19,2023-05-15,Feito
+Debra Guerra,,150,250,2023-05-05,,Em Producao
+Rose Martin,,250,350,2023-06-06,,Em Producao
+Jacob English,,200,300,2023-04-26,,Em Producao
+Ray Rogers,,250,300,2023-05-18,,Em Producao
+Daniel Thompson,,100,200,2023-05-02,2023-05-24,Entregue
+Russell Nelson,,300,350,2023-03-11,2023-05-04,Feito
+Anthony Cooper,,250,300,2023-04-24,2023-04-27,Feito
+Bradley Pearson,,100,200,2023-03-12,2023-03-26,Entregue
+Christopher Jackson,,250,350,2023-04-21,,Em Producao
+Robert Morgan,,200,250,2023-03-09,2023-04-21,Feito
+Annette Johnson,,100,200,2023-04-09,2023-04-25,Entregue
+Richard Pena,,250,350,2023-03-27,,Em Producao
+Michael Burgess,,100,150,2023-06-02,,Em Producao
+Bruce Russell,,250,300,2023-03-12,2023-04-29,Feito
+Claudia Dominguez,,300,400,2023-05-22,2023-05-25,Entregue
+Emily Alexander,,300,350,2023-04-03,2023-05-15,Feito
+Matthew Smith,,150,250,2023-03-14,2023-05-08,Entregue
+Cynthia Hutchinson,,100,200,2023-03-15,,Em Producao
+William Carter,,250,300,2023-06-02,2023-06-05,Feito
+Tracy Watson,,250,350,2023-06-05,2023-06-05,Feito
+Benjamin Cunningham,,150,250,2023-03-15,2023-05-23,Entregue
+Eric Jackson,,200,300,2023-05-26,2023-06-03,Feito
+Douglas Morgan,,250,350,2023-05-08,,Em Producao
+Jamie Ferguson,,100,200,2023-05-19,2023-05-31,Feito
+Heidi Petersen,,300,350,2023-04-13,,Em Producao
+Brandi Scott,,200,250,2023-05-01,2023-05-30,Entregue
+Grace Nelson,,250,350,2023-03-28,2023-04-30,Entregue
+Erin Cooper,,100,200,2023-04-06,2023-04-22,Entregue
+Mrs. Kimberly Schroeder,,250,350,2023-05-14,,Em Producao
+Sherry Curry,,300,350,2023-05-11,2023-05-25,Entregue
+Randall Walker,,150,200,2023-03-24,2023-06-03,Feito
+Joanna Kelly,,200,250,2023-03-27,2023-05-20,Entregue
+Heather Francis,,100,150,2023-04-06,2023-04-28,Entregue
+Tony Howard,,200,250,2023-06-06,2023-06-06,Feito
+Thomas Weaver,,300,400,2023-03-14,2023-03-18,Entregue
+Mark Arnold,,200,250,2023-03-19,2023-05-26,Entregue
+Shawn Mcdonald,,250,300,2023-04-28,2023-06-01,Feito
+Devon Garrett,,250,350,2023-03-29,2023-05-24,Entregue
+Shannon Davis,,250,350,2023-03-09,2023-04-26,Feito
+Chad Green,,150,250,2023-03-16,2023-04-16,Feito
+Ashley Clark,,250,300,2023-04-30,2023-05-30,Feito
+Sarah Watson,,150,250,2023-04-24,,Em Producao
+Jeffrey Sandoval,,200,250,2023-06-01,2023-06-06,Entregue
+Jerry Moyer,,100,200,2023-04-02,,Em Producao
+Jason Ortiz,,250,350,2023-05-06,,Em Producao
+David Ellis Jr.,,100,150,2023-04-30,2023-04-30,Entregue
+Nathan Vega,,300,400,2023-03-11,2023-05-30,Feito
+Ashley Garcia,,200,300,2023-04-07,2023-05-14,Feito
+Brenda Davis,,300,400,2023-05-12,2023-05-28,Entregue
+Richard Taylor,,300,350,2023-06-01,2023-06-01,Feito
+Robin Rodriguez,,100,200,2023-05-25,,Em Producao
+Christina Wells,,100,200,2023-05-06,,Em Producao
+Mr. Randall George,,150,250,2023-05-23,2023-05-25,Entregue
+Cathy Davidson,,250,350,2023-03-22,2023-06-05,Feito
+Ian Perez,,100,200,2023-05-29,2023-06-06,Entregue
+Mark Patterson,,300,400,2023-05-26,2023-05-26,Feito
+Daniel Adams,,200,250,2023-04-18,2023-04-22,Feito
+Donna Dudley,,250,350,2023-04-15,,Em Producao
+Katherine Underwood,,100,200,2023-04-24,,Em Producao
+John Oneal,,200,300,2023-04-30,,Em Producao
+Glen Lopez,,100,200,2023-06-03,2023-06-04,Feito
+,0.0,0,0,2023-06-07,2000-01-01,
+,0,0,0,2023-06-07,2000-01-01,
